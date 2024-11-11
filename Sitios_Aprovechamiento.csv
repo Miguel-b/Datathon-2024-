@@ -1,0 +1,689 @@
+OBJECTID,Shape,id_compraventa,ano,coordenada_x,coordenada_y,nombre_compraventa,comuna_correg,barrio,direccion,tipo_compraventa,clasificacion_compraventa,tiempo_actividad_meses,dest_res_peligrosos,componentes_capacitado,entidades_capacitadoras,capacitado_ot_programas,cual_ot_programa,calidad_materiales,lunes,martes,miercoles,jueves,viernes,sabado,domingo,recoleccion_domicilio,compraventa_movil,compra_vende_almacena,beneficio,transf_materiaprima,transf_productermi,carro,motocarro,camioneta,camion,personal_contratado,personas_contratadas,f_diligenciamiento,Country
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"(4716291.3237000005, 2253128.0067)",1237,2012,4716291.324,2253128.007,Pro-Servicios Bernando Ru�z,Comuna 4 Aranjuez,Moravia,CR 55 E  93 E  43,Formal,Compra y Venta de material,117,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,Si,2,10/26/2012 13:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,"(4716292.4903, 2253128.5299999993)",1271,2012,4716292.49,2253128.53,Fernando Arenas,Comuna 4 Aranjuez,Moravia,CR 55 E  93 E  59,Informal,Compra y Venta de material,240,No los procesa ni los comercializa.,Tecn�logico,Sena.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,Si,No,No,No,No,No,No,Si,4,10/26/2012 13:54,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"(4718610.030200001, 2251365.8999000005)",1360,2012,4718610.03,2251365.9,Gabriel Jaramillo,Comuna 3 Manrique,El Raizal,CL 76   32   67,Formal,Compra y Venta de material,24,No los toca y no los recibe.,Ambiental,Secretar�a de Medio Ambiente de Medell�n. ,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,36:42.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"(4715282.235800001, 2250554.7799999993)",1533,2012,4715282.236,2250554.78,Reciplas,Comuna 7 Robledo,Universidad Nacional,CL 58 b  64   34,Informal,Compra y Venta de material,86,No los maneja.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,No,Si,8,10/29/2012 11:59,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"(4715346.1614, 2252239.7068000045)",1607,2012,4715346.161,2252239.707,Corporaci�n de Excedentes Industriales del Norte,Comuna 5 Castilla,Cementerio Universal,CL 81   64 B  16,Formal,Compra y Venta de material,36,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,3,47:38.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"(4711389.4602000015, 2249722.8159)",2184,2012,4711389.46,2249722.816,Inversiones Rivera Center S.A,Comuna 12 La Am�rica,Campo Alegre,CL 44 A  92   91,Formal,Compra y Venta de material,24,No los Manejan.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,No,Si,7,11/2/2012 13:12,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"(4715055.2141, 2249457.7135000005)",2187,2012,4715055.214,2249457.714,Excedentes San Javier,Comuna 10 La Candelaria,Coraz�n de Jes�s,CL 48   59   97,Formal,Compra y Venta de material,5,"No los manipulan, ni los compran.",Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,2,11/2/2012 13:48,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"(4711349.959600001, 2249646.2342000026)",2189,2012,4711349.96,2249646.234,Chatarreria La Am�rica La 92,Comuna 12 La Am�rica,El Danubio,CL 42   92   99,Formal,Compra y Venta de material,120,No los manejan.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,No,Si,2,11/2/2012 13:40,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"(4714178.480400001, 2251945.5484999996)",2236,2012,4714178.48,2251945.549,Horacio Zuluaga Villegas,Comuna 7 Robledo,La Pilarica,CL 75 A  74 A  70,Formal,Compra y Venta de material,1,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,1,11/1/2012 23:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"(4716680.249300001, 2249311.6635999996)",2243,2012,4716680.249,2249311.664,Dep�sitos La Cartonera,Comuna 10 La Candelaria,Boston,CR 44 A  54   52,Informal,Compra y Venta de material,60,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,6,11/2/2012 16:59,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"(4715770.760100001, 2250046.0255999994)",2395,2012,4715770.76,2250046.026,inversiones Ferroquir�z,Comuna 10 La Candelaria,Estaci�n Villa,CL 57 B  54   37,Formal,Compra y Venta de material,192,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,No,0,11/2/2012 10:18,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,"(4716217.8884000005, 2249766.520800002)",2401,2012,4716217.888,2249766.521,Juan de Jes�s Orozco Franco,Comuna 10 La Candelaria,Villa Nueva,CR 50   55 A  4,Informal,Compra y Venta de material,24,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,11/7/2012 23:47,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,"(4716110.3726, 2248571.3352000024)",2693,2012,4716110.373,2248571.335,Chatarrer�a La 51,Comuna 10 La Candelaria,Barrio Col�n,CR 43 B  44   51,Informal,Compra y Venta de material,18,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,Si,Si,No,0,11/2/2012 20:02,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,"(4714987.7382000005, 2253080.4152000006)",2722,2012,4714987.738,2253080.415,Chatarrer�a J.C,Comuna 5 Castilla,Alfonso L�pez,CL 91 B  71 B  24,Informal,Compra y Venta de material,9,No los manipula.,Ambiental,Universidad de Antioquia.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,Si,No,No,No,No,0,34:47.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,"(4715808.7666, 2255389.1427000016)",2727,2012,4715808.767,2255389.143,Carolina Cardona,Comuna 5 Castilla,Tejelo,CR 70   106 B  68,Informal,Compra y Venta de material,48,No los recolecta.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,No,0,11/13/2012 15:07,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,"(4715131.112500002, 2252919.5028000027)",2734,2012,4715131.113,2252919.503,Chatarrer�a La 70,Comuna 5 Castilla,Alfonso L�pez,CR 70   91 A  101,Formal,Compra y Venta de material,84,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,No,Si,3,11/13/2012 21:55,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,"(4715130.800900001, 2252922.4026000015)",3035,2012,4715130.801,2252922.403,Compraventa La 70,Comuna 5 Castilla,Alfonso L�pez,CR 70   91 A  103,Formal,Compra y Venta de material,84,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,2,11/16/2012 15:43,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,"(4718817.2012, 2249024.593700003)",3060,2012,4718817.201,2249024.594,El Descanso,Comuna 8 Villa Hermosa,Trece de Noviembre,CR 19   56 H  57,Formal,Compra y Venta de material,120,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 20:29,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,"(4716011.748799999, 2249112.410000004)",3592,2012,4716011.749,2249112.41,Chatarrer�a Mu�oz,Comuna 10 La Candelaria,La Candelaria,CL 49   49 F  7,Informal,Compra y Venta de material,72,No los manipula.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/29/2012 20:38,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,"(4711749.913100001, 2246588.2873)",4015,2012,4711749.913,2246588.287,Chatarrer�a Ram�rez,Comuna 16 Bel�n,Altavista,CR 83   21   89,Formal,Compra y Venta de material,26,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,1,12/10/2012 9:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,"(4711066.426200001, 2247745.174800001)",4025,2012,4711066.426,2247745.175,Chatarrer�a La Mona,Comuna 16 Bel�n,Las Mercedes,CL 33 A  89 C  5,Informal,Compra y Venta de material,24,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,12/10/2012 9:48,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,"(4716273.9991000015, 2248501.430299999)",4548,2012,4716273.999,2248501.43,Servipl�sticos,Comuna 10 La Candelaria,Bombon� No.1,CR 43   45   25,Formal,Transformaci�n,240,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,No,Si,Si,No,No,No,No,No,Si,7,12/17/2012 1:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,"(4710808.043899999, 2251910.444600003)",4797,2012,4710808.044,2251910.445,Chatarrer�a El Muro,Comuna 7 Robledo,Olaya Herrera,CL 58   104   53,Informal,Compra y Venta de material,15,No los compra.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,12/19/2012 10:29,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,"(4705782.792600001, 2241983.763000002)",4995,2012,4705782.793,2241983.763,Chatarrer�a Montoya L�pez,Corregimiento San Antonio de Prado,San Antonio de Prado-C_prado,CL 45  Sur 83   92,Formal,Compra y Venta de material,12,No llegan a la compraventa.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,1,12/21/2012 13:35,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,"(4702448.7418, 2259709.4781000037)",5122,2012,4702448.742,2259709.478,Asociaci�n Ambiental de Recuperadores y Prestadores de Servicios de Palmitas Arrecuperar,Corregimiento Palmitas,Palmitas Sector Central-C_palmitas,CL 20   34   137,Formal,Compra y Venta de material,84,No los manipula.,Organizacional,UMATA y Universidad de Antioquia.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,Si,No,No,Si,9,12/26/2012 12:31,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,"(4714364.8346, 2249508.341600001)",1536,2012,4714364.835,2249508.342,Excedentes Piamonte,Comuna 11 Laureles Estadio,Naranjal,CR 64 45 A 59,Formal,Compra y Venta de material,240,No los manejan.,Todos los anteriores,"Secretar�a de Medio Ambiente de Medell�n, Colegio Mayor de Antioquia, Asemar y Codesarrollo.",No,NR.,Regulares,Si,No,No,Si,No,No,No,Si,No,Si,No,Si,No,Si,No,No,No,No,0,10/29/2012 19:03,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,"(4716576.8523, 2251844.7195999995)",2209,2012,4716576.852,2251844.72,Leo Moncada,Comuna 4 Aranjuez,Miranda,CR 51 78 41,Informal,Transformacion,2,Los deposita en la caneca de la basura.,Ninguna,NR,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,Si,No,No,No,No,0,11/2/2012 15:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,"(4714878.390100001, 2253185.0896000005)",3040,2012,4714878.39,2253185.09,Gildardo Montoya,Comuna 5 Castilla,Alfonso Lopez,CR 71 C 89 B 84,Informal,Compra y Venta de material,6,No los manipula.,Ninguna,NR,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,No,0,11/16/2012 16:30,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,"(4714364.8346, 2249508.341600001)",1000,2012,4714364.835,2249508.342,Excedentes Piamonte,Comuna 11 Laureles Estadio,Naranjal,CR 64   45 A  59,Formal,Compra y Venta de material,300,No los comercializan.,Todos los anteriores,"Colegio Mayor de Antioquia, Universidad de Antioquia, Universidad Pontificia Bolivariana y Esumer.",Si,Econom�a Solidaria,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,No,Si,12,10/20/2012 12:36,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,"(4716819.7683, 2251031.856400002)",1234,2012,4716819.768,2251031.856,Excedentes Palac�,Comuna 4 Aranjuez,San Pedro,CR 50   69   23,Formal,Compra y Venta de material,84,NR.,Organizacional,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 13:13,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,"(4714460.2794, 2249400.9677000046)",1239,2012,4714460.279,2249400.968,Excedentes Industriales JM,Comuna 11 Laureles Estadio,Naranjal,CL 45 A  63 A  37,Formal,Compra y Venta de material,96,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,22,10/26/2012 13:23,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,"(4717297.8073, 2255325.101300001)",1313,2012,4717297.807,2255325.101,Segundas y Excedentes V�squez,Comuna 2 Santa Cruz,La Frontera,CR 52   112   95,Informal,Compra y Venta de material,24,No los compra.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 14:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,"(4719163.551500001, 2253348.786800001)",1251,2012,4719163.552,2253348.787,Chatarer�a El Barbao,Comuna 1 Popular,Carpinelo,CL 97   24 B  31,Formal,Compra y Venta de material,60,NR.,Organizacional,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 13:36,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,"(4716305.0206, 2253263.230799999)",1253,2012,4716305.021,2253263.231,Roberto Antonio Osorio Grarc�s,Comuna 4 Aranjuez,Palermo,CR 55 A  93 E  65,Formal,Compra y Venta de material,60,No los recolectan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,Si,1,41:19.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,"(4714384.7228, 2249227.148900004)",1263,2012,4714384.723,2249227.149,Excedentes Taboga,Comuna 11 Laureles Estadio,Naranjal,CR 64   44   72,Formal,Compra y Venta de material,144,No los manejan.,Ambiental,Coomeva.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,2,10/26/2012 13:47,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,"(4717250.226600002, 2255003.356100004)",1282,2012,4717250.227,2255003.356,Gilberto Mu�oz,Comuna 2 Santa Cruz,La Francia,CR 52   109 A  63,Formal,Compra y Venta de material,240,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,5,10/26/2012 14:13,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,"(4719246.702500001, 2253533.240099998)",1283,2012,4719246.703,2253533.24,Jos� Luis Duque,Comuna 1 Popular,Carpinelo,CR 23   99 B  45,Informal,Compra y Venta de material,13,NR.,Organizacional,Secretar�a de Salud de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 14:12,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,"(4714375.183, 2249326.9092999995)",1289,2012,4714375.183,2249326.909,Excedentes Leandro,Comuna 11 Laureles Estadio,Naranjal,CR 64   44 B  25,Formal,Compra y Venta de material,72,No los maneja.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,Si,3,10/26/2012 14:19,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,"(4716953.045000001, 2254360.0775000006)",1291,2012,4716953.045,2254360.078,Corporacion Tecnol�gica de Antioquia,Comuna 2 Santa Cruz,Villa Niza,CR 52   104   51,Formal,Compra y Venta de material,120,No los compran.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,2,10/26/2012 14:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,"(4716944.823400001, 2254384.127199998)",1292,2012,4716944.823,2254384.127,Taller El Polvero Recuperadora,Comuna 2 Santa Cruz,Villa Niza,CR 52   104   17,Informal,Compra y Venta de material,336,No los compra.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,No,0,10/26/2012 14:32,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,"(4714403.954300001, 2249407.9422999993)",1293,2012,4714403.954,2249407.942,Cashmetal,Comuna 11 Laureles Estadio,Naranjal,CL 45 A  63 B  31,Formal,Compra y Venta de material,3,No los manipulan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,1,10/26/2012 14:35,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,"(4716931.2938, 2254308.8060000036)",1294,2012,4716931.294,2254308.806,Chatarrer�a Los Morales,Comuna 2 Santa Cruz,Villa Niza,CR 52   103   14,Formal,Compra y Venta de material,48,No los compra.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,10/26/2012 14:40,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,"(4716881.421300001, 2254305.0283000004)",1296,2012,4716881.421,2254305.028,Comercializadora El R�o,Comuna 2 Santa Cruz,Santa Cruz,CR 52   102   25,Formal,Compra y Venta de material,36,no los compran.,Organizacional,Secretar�a de Salud de Medell�n.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,No,No,No,No,No,Si,3,10/26/2012 14:45,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,"(4716654.0802, 2251155.9426000006)",1298,2012,4716654.08,2251155.943,Chatarrer�a El �xito,Comuna 4 Aranjuez,San Pedro,CR 51   70 A  16,Informal,Compra y Venta de material,12,Los deposita en la caneca de basura.,Organizacional,Sena.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,Si,1,10/26/2012 13:34,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,"(4716455.732600002, 2251848.1423000023)",1299,2012,4716455.733,2251848.142,Geofuturo S.A.S,Comuna 4 Aranjuez,Miranda,CR 51 B  78   25,Formal,Compra y Venta de material,48,No los maneja.,Todos los anteriores,Fenalco y Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,Si,16,10/26/2012 13:53,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,"(4716503.146800002, 2251857.450000001)",1301,2012,4716503.147,2251857.45,Cooperenka,Comuna 4 Aranjuez,Miranda,CR 51 B  78   40,Formal,Compra y Venta de material,36,No los manipula.,Todos los anteriores,"Comfenalco,Secretar�a del Medio Ambiente de Medell�n.",No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,Si,17,10/26/2012 14:12,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,"(4716599.575100002, 2251810.709400002)",1304,2012,4716599.575,2251810.709,Compraventa Los Lop�z,Comuna 4 Aranjuez,Miranda,CR 51   78   20,Formal,Compra y Venta de material,540,No manipulan este tipo de residuos.,Todos los anteriores,Municipio de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,No,No,No,No,No,Si,4,10/26/2012 14:27,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,"(4716553.7389, 2251925.6103000026)",1308,2012,4716553.739,2251925.61,Excedente CPK,Comuna 4 Aranjuez,Miranda,CL 79   51   30,Formal,Compra y Venta de material,168,No los manipula.,Todos los anteriores,Comfenalco.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,17,10/26/2012 14:45,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,"(4714504.869000001, 2249405.120100001)",1314,2012,4714504.869,2249405.12,Comercializadora La Monta�a,Comuna 11 Laureles Estadio,Naranjal,CR 63 A  45   75,Formal,Compra y Venta de material,240,No los manejan.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,3,51:14.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,"(4718773.0599, 2254273.7010000013)",1316,2012,4718773.06,2254273.701,Chatarrer�a Hala Hala,Comuna 1 Popular,Santo Domingo Savio No.1,CR 33   107 A  2,Formal,Compra y Venta de material,72,NR.,Organizacional,Secretar�a de Medio Ambiente de Medell�n.,Si,Planeaci�n Estrat�gica.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,Si,No,No,No,No,0,10/26/2012 14:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,"(4717696.1637, 2255065.021300001)",1322,2012,4717696.164,2255065.021,Chatarrer�a La 111,Comuna 2 Santa Cruz,Pablo VI,CL 111 B  49 C  7,Formal,Compra y Venta de material,84,No los compran.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 14:59,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,"(4714354.7647, 2249110.5468000025)",1326,2012,4714354.765,2249110.547,Chatarrer�a La Negra,Comuna 11 Laureles Estadio,San Joaqu�n,CL 44   63 D  41,Formal,Compra y Venta de material,24,No los maneja.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,1,10/26/2012 15:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,"(4717235.9878, 2255115.3523999993)",1328,2012,4717235.988,2255115.352,Planta de Reciclaje El Paisa,Comuna 2 Santa Cruz,La Francia,CR 52   110   3,Formal,Compra y Venta de material,96,No los comercializa.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,5,10/26/2012 15:07,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,"(4718583.670300001, 2250892.528800003)",1361,2012,4718583.67,2250892.529,Chatarrer�a La 70,Comuna 3 Manrique,Versalles No.1,CL 70   31   21,Formal,Compra y Venta de material,2,No los toca ni los recolecta.,Ambiental,Secretar�a de Medio Ambiente y Secretar�a de Salud de Medell�n.,Si,Organizacional y empresarial.,Regulares,Si,Si,Si,Si,Si,No,No,No,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 13:51,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,"(4718552.5624, 2250821.064000001)",1362,2012,4718552.562,2250821.064,Jes�s Antonio G�mez Montoya,Comuna 3 Manrique,Versalles No.1,CL 69   31   52,Formal,Compra y Venta de material,120,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,Si,Organizacional.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 14:11,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,"(4712769.427700001, 2247136.465)",1363,2012,4712769.428,2247136.465,Chatarrer�a La Salle,Comuna 16 Bel�n,Bel�n,CR 42 B  89 A  8,Formal,Compra y Venta de material,180,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 14:35,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,"(4718118.7506, 2252861.951199999)",1364,2012,4718118.751,2252861.951,Chatarrer�a La 91,Comuna 3 Manrique,La Salle,CR 39   91   27,Formal,Compra y Venta de material,48,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,10/26/2012 14:45,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,"(4718317.2372, 2252068.9415000044)",1365,2012,4718317.237,2252068.942,Recicladora El Jard�n,Comuna 3 Manrique,Santa In�s,CL 84   36 C  12,Formal,Compra y Venta de material,12,No los recolectan.,Legal,Municipio de Medell�n.,Si,Legal.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,No,0,10/26/2012 15:00,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,"(4717984.5167, 2250639.0676000006)",1366,2012,4717984.517,2250639.068,Compraventa La Marina,Comuna 3 Manrique,Manrique Oriental,CR 38   67   7,Formal,Compra y Venta de material,60,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,1,29:01.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,"(4718201.6239, 2250897.630999999)",1367,2012,4718201.624,2250897.631,Reciclaje El Gait�n,Comuna 3 Manrique,Manrique Oriental,CR 36   69   111,Informal,Compra y Venta de material,48,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 15:53,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,"(4716618.985099999, 2251939.530500002)",1368,2012,4716618.985,2251939.531,Comercializadora de Envases y Excedentes Reciclabl,Comuna 4 Aranjuez,Miranda,CR 51   79   50,Formal,Compra y Venta de material,96,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,Si,Si,No,No,No,No,Si,12,10/26/2012 16:37,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,"(4716576.8523, 2251844.7195999995)",1369,2012,4716576.852,2251844.72,Leo Moncada,Comuna 4 Aranjuez,Miranda,CR 51   78   41,Informal,Transformaci�n,2,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,No,No,No,No,Si,Si,Si,Si,No,No,No,No,Si,1,10/26/2012 16:46,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,"(4716576.610599999, 2251817.8215000015)",1370,2012,4716576.611,2251817.822,Alexander Angel,Comuna 4 Aranjuez,Miranda,CR 51   78   25,Informal,Compra y Venta de material,5,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,3,10/26/2012 16:56,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,"(4715783.033500002, 2250056.7892000005)",2261,2012,4715783.034,2250056.789,JMario,Comuna 10 La Candelaria,Estaci�n Villa,CR 54   57   20,Formal,Compra y Venta de material,12,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,16:12.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,"(4716785.443000002, 2251711.332699999)",1371,2012,4716785.443,2251711.333,Excedentes Echavarr�a S.A,Comuna 4 Aranjuez,Brasilia,CL 77 AA  50 B  10,Formal,"Compra, Venta y Beneficio",60,Los deposita en la caneca de la basura.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,Si,6,10/26/2012 17:11,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,"(4714433.929200001, 2249515.6544000003)",1372,2012,4714433.929,2249515.654,Excedentes El Naranjal,Comuna 11 Laureles Estadio,Naranjal,CL 46   63 B  13,Formal,Compra y Venta de material,144,No los manipulan.,Todos los anteriores,"Secretar�a de Medio Ambiente de Medell�n, Esumer, Colegio Mayor de Antioquia, Escuela de Econom�a Solidaria y Univevrsidad de Antioquia.",Si,"Seguridad y convivencia, salud ocupacional.",Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,Si,2,10/26/2012 16:30,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,"(4714339.954100001, 2249210.8675000016)",1373,2012,4714339.954,2249210.868,Excedentes G�mez G�mez,Comuna 11 Laureles Estadio,Naranjal,CR 64   44   59,Formal,Compra y Venta de material,144,No los manejan.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,Si,Si,Si,17,10/26/2012 16:44,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,"(4714336.571800002, 2249212.453900004)",1374,2012,4714336.572,2249212.454,Excedentes LM,Comuna 11 Laureles Estadio,Naranjal,CR 64   44   53,Formal,Compra y Venta de material,108,No los manejan.,Todos los anteriores,Secretar�a de Medio Ambiente de Medell�n y Colegio Mayor de Antioquia.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,4,10/26/2012 16:57,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,"(4714378.0897, 2249218.2814000025)",1375,2012,4714378.09,2249218.281,Guardadero Blanco y Negro,Comuna 11 Laureles Estadio,Naranjal,CR 64   44   62,Formal,Compra y Venta de material,300,No los manejan.,Ambiental,Actuar Famiempresas.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,No,0,11:02.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,"(4716660.0506, 2251712.8663000036)",1376,2012,4716660.051,2251712.866,Duv�n Rico Mu�oz,Comuna 4 Aranjuez,Miranda,CR 50 C  77   41,Informal,Compra y Venta de material,3,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,10/26/2012 17:21,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,"(4716571.869500001, 2251919.701700004)",1377,2012,4716571.87,2251919.702,Life Plast S.A.S,Comuna 4 Aranjuez,Miranda,CR 51   79   17,Formal,"Compra, Venta y Beneficio",48,Los deposita en la caneca de la basura.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,No,No,No,No,No,Si,6,31:04.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,"(4716577.065800001, 2251910.8165000007)",1378,2012,4716577.066,2251910.817,Plastisol,Comuna 4 Aranjuez,Miranda,CR 51   79   21,Informal,"Compra, Venta y Beneficio",72,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,No,No,No,No,No,Si,4,37:58.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,"(4714385.573300001, 2249088.6527999993)",1379,2012,4714385.573,2249088.653,Reciclajes El Primo,Comuna 11 Laureles Estadio,San Joaqu�n,CR 63 D  43   67,Formal,Compra y Venta de material,360,No los manejan.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,6,10/26/2012 17:30,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,"(4714387.4608, 2249064.728100002)",1380,2012,4714387.461,2249064.728,Reciclaje Arraval,Comuna 11 Laureles Estadio,San Joaqu�n,CR 63 D  43   33,Formal,Compra y Venta de material,240,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n y Asemar.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,Si,Si,Si,1,41:09.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,"(4714387.3506, 2249066.728600001)",1381,2012,4714387.351,2249066.729,Excedente FSC,Comuna 11 Laureles Estadio,San Joaqu�n,CR 63 D  43   35,Formal,Compra y Venta de material,244,No los manejan.,Ambiental,Secretar�a de Medio Ambiente de Medell�n y Asemar.,No,NR.,Regulares,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,No,No,Si,3,10/26/2012 17:49,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,"(4718804.761000001, 2254150.0208)",1382,2012,4718804.761,2254150.021,chatarrer�a y Excedentes Fercho,Comuna 1 Popular,Santo Domingo Savio No.1,CL 106 A  32   64,Formal,Compra y Venta de material,50,NR.,Organizacional,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,Si,Si,No,No,No,No,No,No,No,No,0,10/28/2012 23:37,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77,"(4718776.061600001, 2254039.916600002)",1383,2012,4718776.062,2254039.917,Precoambiental,Comuna 1 Popular,Santo Domingo Savio No.1,CR 32 A  102 B  53,Formal,Compra y Venta de material,192,NR.,Todos los anteriores,"Desarrollo Social, Secretar�a de Medio Ambiente de Medell�n, �rea Metropolitana del Valle de Aburr�, Universidad Luis amig�.",Si,"Empresarismo social y solidario, Liderazgo",Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,No,0,10/29/2012 0:11,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,"(4717358.0343, 2255509.878799999)",1526,2012,4717358.034,2255509.879,chatarrer�a Los Morales,Comuna 2 Santa Cruz,La Frontera,CR 52   120   70,Informal,Compra y Venta de material,36,No los compra.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,10/29/2012 15:55,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,"(4716729.2421, 2254153.6938000005)",1527,2012,4716729.242,2254153.694,Chatarrer�a Santa Cruz,Comuna 2 Santa Cruz,Santa Cruz,CR 52   100   207,Informal,Compra y Venta de material,120,No los compran.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,3,10/29/2012 16:23,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,"(4716362.6806, 2253277.0933999997)",1528,2012,4716362.681,2253277.093,Jhon Marlon Alzate,Comuna 4 Aranjuez,Palermo,CR 55   94   36,Informal,Compra y Venta de material,18,Porque est� prohibida la recolecci�n y utilizaci�n de estos materiales.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,10/29/2012 16:53,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,"(4716299.782900001, 2253049.572400002)",1529,2012,4716299.783,2253049.572,Dep�sitos Envases Oca,Comuna 4 Aranjuez,Palermo,CR 55   91   12,Formal,Compra y Venta de material,204,No los compran.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,No,Si,6,10/29/2012 17:24,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,"(4716247.4136, 2252996.3806000017)",1530,2012,4716247.414,2252996.381,Picadora Las Camelias,Comuna 4 Aranjuez,Moravia,CR 55   90   57,Formal,Compra y Venta de material,96,No los compra.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,No,No,No,No,No,Si,6,10/29/2012 17:54,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83,"(4714536.060400001, 2250257.874099998)",1532,2012,4714536.06,2250257.874,Excedentes Prosperar,Comuna 11 Laureles Estadio,Carlos E. Restrepo,CL 55 A  65   77,Formal,"Compra, Venta y Beneficio",36,Por el peligro en la manipulaci�n y no est� permitido ante la autoridad ambiental. ,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,Si,17,23:00.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,"(4717023.9558, 2250328.1739000045)",1534,2012,4717023.956,2250328.174,Ecorecuperar,Comuna 8 Villa Hermosa,La Mansi�n,CR 46   64   28,Formal,Compra y Venta de material,12,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,Si,Si,Si,5,10/29/2012 18:27,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,"(4714360.885600001, 2249500.3310000002)",1535,2012,4714360.886,2249500.331,Excedentes Doly,Comuna 11 Laureles Estadio,Naranjal,CR 64   45 A  49,Formal,Compra y Venta de material,96,No los manejan.,Todos los anteriores,"Secretar�a de Medio Ambiente de Medell�n, Colegio Mayor de Antioquia y Asemar.",No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,2,10/29/2012 18:50,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,"(4716419.6167, 2252224.5682999995)",1606,2012,4716419.617,2252224.568,Chatarrer�a La 82,Comuna 4 Aranjuez,Miranda,CL 82   51 C  42,Formal,Compra y Venta de material,36,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,3,47:38.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,"(4716478.874200001, 2252181.5293000024)",1616,2012,4716478.874,2252181.529,Recicladora Aldao,Comuna 4 Aranjuez,Miranda,CL 82   51 B  47,Formal,"Compra, Venta y Beneficio",48,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,Si,No,No,No,Si,3,10/30/2012 14:05,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,"(4716552.7415000005, 2252020.0924000014)",1632,2012,4716552.742,2252020.092,Risoma,Comuna 4 Aranjuez,Miranda,CL 80   51   28,Informal,Compra y Venta de material,6,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,No,0,03:32.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,"(4716440.604400001, 2252044.1615000013)",1680,2012,4716440.604,2252044.162,Recuperadora de Desechos Industriales,Comuna 4 Aranjuez,Miranda,CR 51 C  80   27,Formal,Compra y Venta de material,12,Los deposita en la caneca de la basura. ,Todos los anteriores,Municipio de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,No,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,4,10/30/2012 16:23,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,"(4716415.5799, 2252088.3720000014)",1684,2012,4716415.58,2252088.372,Excedentes LAMN,Comuna 4 Aranjuez,Miranda,CL 81   51 C  5,Informal,Compra y Venta de material,5,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,5,10/30/2012 15:37,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,"(4716273.525000001, 2252962.143500002)",1693,2012,4716273.525,2252962.144,Compraventa Don Mario,Comuna 4 Aranjuez,Bermejal-Los Alamos,CR 55   90   26,Formal,Compra y Venta de material,12,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,Si,Si,No,No,No,No,Si,6,10/30/2012 15:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,"(4716259.961800001, 2252973.6497000027)",1694,2012,4716259.962,2252973.65,Vahos Quintana,Comuna 4 Aranjuez,Bermejal-Los Alamos,CR 55   90   32,Formal,Compra y Venta de material,24,No los compran.,Organizacional,"Sena,  Bomberos de Medell�n.",No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,Si,5,10/30/2012 16:05,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,"(4716224.721100001, 2252983.5022000037)",1695,2012,4716224.721,2252983.502,Excedentes Uno A,Comuna 4 Aranjuez,Moravia,CR 55   90   29,Formal,Compra y Venta de material,60,No los compran.,Organizacional,"Transforma, Parque Industrial de Reciclaje de Moravia, Alcald�a de Medell�n.",No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,Si,Si,Si,3,21:14.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,"(4716257.9675, 2252965.8789000027)",1696,2012,4716257.968,2252965.879,Envases Lucho,Comuna 4 Aranjuez,Bermejal-Los Alamos,CR 55   90   27,Informal,Compra y Venta de material,48,No los compra.,Organizacional,Sena y la Alcald�a de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,2,10/30/2012 16:37,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,"(4716216.634700001, 2253061.7096999995)",1697,2012,4716216.635,2253061.71,Unidad Productiva Envases Mapa,Comuna 4 Aranjuez,Moravia,CL 91   55   44,Formal,Compra y Venta de material,208,No los compra.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,No,Si,2,10/30/2012 17:07,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,"(4716228.259100001, 2252999.4443999995)",1698,2012,4716228.259,2252999.444,Distribuidora De Envases Romanel,Comuna 4 Aranjuez,Moravia,CR 55   90   51,Formal,Compra y Venta de material,24,No los compra.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,5,10/30/2012 19:05,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,"(4716361.110400001, 2252345.4414000027)",1699,2012,4716361.11,2252345.441,Excedentes Antioquia,Comuna 4 Aranjuez,Bermejal-Los Alamos,CR 53 A  82 A  98,Formal,Compra y Venta de material,30,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,6,10/30/2012 20:19,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98,"(4716498.249300002, 2253117.287300002)",1700,2012,4716498.249,2253117.287,Excedentes Ra�l Restrepo,Comuna 4 Aranjuez,Palermo,CR 52   92   65,Formal,Compra y Venta de material,24,No los manejan.,Organizacional,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,10/31/2012 17:56,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,"(4716116.234, 2252755.030100003)",1861,2012,4716116.234,2252755.03,Ferplas H�ctor,Comuna 4 Aranjuez,Moravia,CR 55   88   41,Formal,Compra y Venta de material,420,No los manejan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,No,0,10/31/2012 18:36,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,"(4716308.589399999, 2253236.503999999)",1862,2012,4716308.589,2253236.504,Cooperativa Antioque�a de Recolectores,Comuna 4 Aranjuez,Palermo,CR 55 A  93 E  15,Formal,Compra y Venta de material,144,No los recolecta.,Organizacional,Transforma.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,0,10/31/2012 19:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,"(4716169.4065, 2251908.5822)",1863,2012,4716169.407,2251908.582,Chatarrer�a Los Balsos,Comuna 4 Aranjuez,Moravia,CL 77   54 B  24,Informal,Compra y Venta de material,96,No los maneja.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,10/31/2012 19:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,"(4716140.1253, 2251928.571200002)",1864,2012,4716140.125,2251928.571,Chatarrer�a Antares,Comuna 4 Aranjuez,Moravia,CL 77   54 B  55,Formal,Compra y Venta de material,24,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,Si,No,No,No,No,0,11/1/2012 17:57,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,"(4715921.2827, 2252159.7404999994)",2012,2012,4715921.283,2252159.741,Excedentes DM,Comuna 4 Aranjuez,Moravia,CL 77   56 B  30,Formal,Compra y Venta de material,84,No los manejan.,Organizacional,�rea Metropolitana del Valle de Aburr�.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,19:58.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,"(4715785.418500001, 2250020.9384999983)",2013,2012,4715785.419,2250020.939,Comercializadora Universo Metal,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   53   67,Formal,Compra y Venta de material,180,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,31:56.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,"(4715814.7415000005, 2250089.2936000023)",2014,2012,4715814.742,2250089.294,Materiales de Segunda Pedro Serna,Comuna 10 La Candelaria,Estaci�n Villa,CL 57 B  53   45,Formal,Compra y Venta de material,360,No los maneja.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,Si,No,No,No,Si,8,11/1/2012 18:47,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106,"(4715808.272500001, 2250003.4574000016)",2015,2012,4715808.273,2250003.457,Dep�sito de Excedentes El�ctricos Omar Gonz�lez,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   53   39,Informal,Compra y Venta de material,24,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,Si,No,No,No,Si,2,11/1/2012 19:02,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,"(4715827.8163, 2250014.571700003)",2016,2012,4715827.816,2250014.572,Segundas Jero,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   53   29,Formal,Compra y Venta de material,48,NR.,Empresarial,Comfama.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/1/2012 19:24,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,"(4715744.919200001, 2250020.8962000012)",2019,2012,4715744.919,2250020.896,Chatarrer�a Chaverra,Comuna 10 La Candelaria,Estaci�n Villa,CR 54   56   69,Informal,Compra y Venta de material,156,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,Si,Planeaci�n Estrat�gica.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,No,No,No,No,No,No,0,11/1/2012 19:45,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,"(4716284.826600002, 2251798.9202000014)",2025,2012,4716284.827,2251798.92,Recicladora Manuel,Comuna 4 Aranjuez,Moravia,CR 52   77   17,Formal,Compra y Venta de material,7,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,No,Si,4,11/1/2012 20:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+110,"(4715793.791199999, 2250019.4877000004)",2026,2012,4715793.791,2250019.488,Comercializadora Mundimetal S.A.S,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   53   55,Formal,Compra y Venta de material,2,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,No,0,11/2/2012 9:43,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,"(4715846.2315, 2250003.9929000027)",2177,2012,4715846.232,2250003.993,Chatarrer�a Latam�n,Comuna 10 La Candelaria,Estaci�n Villa,CR 53   56   71,Formal,Compra y Venta de material,96,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,No,No,0,11/2/2012 9:53,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112,"(4715655.188900001, 2249722.6307000015)",2178,2012,4715655.189,2249722.631,Excedentes La Espereanza,Comuna 10 La Candelaria,Estaci�n Villa,CL 53   54   58,Formal,Compra y Venta de material,120,No los manejan.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,No,Si,10,11/2/2012 10:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+113,"(4709508.594, 2250082.7140999995)",2180,2012,4709508.594,2250082.714,Juan Alberto Yepes,Comuna 13 San Javier,El Salado,CL 43   115 A  107,Informal,Compra y Venta de material,96,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,0,11/2/2012 12:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,"(4711870.020300001, 2250760.0560000017)",2181,2012,4711870.02,2250760.056,Excedentes La Mina,Comuna 13 San Javier,Santa Rosa de Lima,CR 86 B  49 DD  44,Formal,Compra y Venta de material,96,No los manipulan.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,No,Si,1,11/2/2012 13:03,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115,"(4710812.709200001, 2251356.5699000005)",2182,2012,4710812.709,2251356.57,Chatarrer�a Mu�oz,Comuna 13 San Javier,Juan XXIII La Quiebra,CL 49   99 F  7,Formal,Compra y Venta de material,24,No los Manejan.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,No,Si,7,11/2/2012 13:12,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,"(4710525.852100001, 2250404.4811000004)",2183,2012,4710525.852,2250404.481,Ferreter�a Y El�ctricos,Comuna 13 San Javier,El Socorro,CL 48 A  101   87,Formal,Compra y Venta de material,4,No los manipulan.,Todos los anteriores,"Colegio Mayor de Antioquia , Universidad de Medell�n, Codesarrollo , Secretar�a de Medio Ambiente de Medell�n y la Universidad de Antioquia.",No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,Si,No,No,No,0,11/2/2012 13:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+117,"(4711575.575200002, 2249622.689500002)",2185,2012,4711575.575,2249622.69,Centro de Reciclaje 13parar,Comuna 12 La Am�rica,El Danubio,CL 44   90   16,Formal,Compra y Venta de material,5,"No los manipulan, ni los compran.",Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,2,11/2/2012 13:48,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+118,"(4713753.8619, 2249236.6609000005)",2186,2012,4713753.862,2249236.661,Compraventa La Am�rica,Comuna 11 Laureles Estadio,Naranjal,CL 44   69   49,Formal,Compra y Venta de material,60,No los manejan.,Ninguna,NR.,No,NR.,Regulares,No,Si,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,Si,Si,Si,1,11/2/2012 13:54,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,"(4715326.060400002, 2248366.2377000023)",2188,2012,4715326.06,2248366.238,Luis Enrique Ciro Ceballos,Comuna 10 La Candelaria,Calle Nueva,CR 53   40   12,Formal,Compra y Venta de material,60,No los reciben.,Todos los anteriores,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,No,Si,13,11/2/2012 14:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,"(4715730.6093, 2248482.8643999994)",2193,2012,4715730.609,2248482.864,Excedentes Juanro,Comuna 10 La Candelaria,Barrio Colon,CR 48   42   13,Formal,Compra y Venta de material,60,Los deposita en la caneca de la basura.,Empresarial,Comfenalco.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,Si,2,11/2/2012 14:21,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,"(4715245.1977, 2248182.5755000003)",2194,2012,4715245.198,2248182.576,Excedentes Matfundi,Comuna 10 La Candelaria,Calle Nueva,CR 53   38   16,Formal,Compra y Venta de material,24,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,4,11/2/2012 14:28,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,"(4716447.468300001, 2252194.4328000024)",2206,2012,4716447.468,2252194.433,Juan Leandro Arias Castro,Comuna 4 Aranjuez,Miranda,CL 82   51 C  9,Formal,Compra y Venta de material,120,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,3,11/2/2012 14:53,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123,"(4716549.4597000005, 2252195.3236999996)",2207,2012,4716549.46,2252195.324,Pl�sticos A y S,Comuna 4 Aranjuez,Miranda,CL 82   51   30,Formal,Transformaci�n,48,Los deposita en la caneca de la basura.,Empresarial,Industrias Estra S.A.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,Si,No,No,No,No,Si,5,11/2/2012 15:09,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,"(4716394.8315, 2252249.899000002)",2208,2012,4716394.832,2252249.899,Excedentes Cuatro Bocas,Comuna 4 Aranjuez,Miranda,CR 52   82   31,Formal,Compra y Venta de material,36,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,2,11/2/2012 15:18,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125,"(4716560.608100001, 2251949.9859000016)",2210,2012,4716560.608,2251949.986,Chatarrer�a Campo Vald�s,Comuna 4 Aranjuez,Miranda,CR 51   79   49,Formal,Compra y Venta de material,144,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,Si,No,No,Si,Si,Si,4,11/2/2012 15:36,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,"(4715335.7323, 2248968.0171000026)",2212,2012,4715335.732,2248968.017,Abelardo Rodr�guez,Comuna 10 La Candelaria,Guayaquil,CL 45   54   39,Formal,Compra y Venta de material,408,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,49:06.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127,"(4715296.839700001, 2248880.6941)",2213,2012,4715296.84,2248880.694,Compraventa de Cajas de Cart�n,Comuna 10 La Candelaria,Guayaquil,CL 44   54   36,Formal,Compra y Venta de material,120,Los deposita en la caneca de la basura.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,11/2/2012 15:56,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,"(4715263.988100001, 2248954.5271000005)",2214,2012,4715263.988,2248954.527,Excedentes Mu�oz,Comuna 10 La Candelaria,Guayaquil,CR 55   44 A  12,Formal,"Compra, Venta y Beneficio",324,Los deposita en la caneca de la basura.,Todos los anteriores,Coomateriales.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,Si,No,No,No,No,Si,26,11/2/2012 16:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+129,"(4715272.657, 2248976.904400002)",2215,2012,4715272.657,2248976.904,Metexcol,Comuna 10 La Candelaria,Guayaquil,CR 55   44 A  36,Formal,Compra y Venta de material,336,Los deposita en la caneca de la basura.,Todos los anteriores,Universidad de Antioquia.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,Si,1,11/2/2012 16:10,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,"(4715286.1875, 2248899.120100001)",2216,2012,4715286.188,2248899.12,Chatarrer�a Heriberto Cano,Comuna 10 La Candelaria,Guayaquil,CL 44 A  54   53,Formal,Compra y Venta de material,84,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,2,11/2/2012 16:20,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+131,"(4715274.2497, 2248903.6082000006)",2217,2012,4715274.25,2248903.608,Coomateriales,Comuna 10 La Candelaria,Guayaquil,CL 44 A  54   61,Formal,Compra y Venta de material,96,Los deposita en la caneca de la basura.,Todos los anteriores,Mundial de Reciclaje.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,5,11/2/2012 16:26,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+132,"(4715290.4251, 2249093.5252)",2218,2012,4715290.425,2249093.525,Bodega de Chatarra Hincapi� Ru�z,Comuna 10 La Candelaria,Guayaquil,CR 55   45 A  7,Informal,Compra y Venta de material,504,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,Si,1,10/31/2012 21:36,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,"(4714886.9761, 2249016.2037000004)",2225,2012,4714886.976,2249016.204,Excedentes J.R.S,Comuna 10 La Candelaria,Coraz�n de Jesus,CR 59   44   29,Formal,Compra y Venta de material,84,No los recolectan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,No,No,No,No,Si,No,No,No,No,No,No,No,Si,4,10/31/2012 21:58,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,"(4715048.817000001, 2249125.7325)",2226,2012,4715048.817,2249125.733,Excedentes M.S.C,Comuna 10 La Candelaria,Coraz�n de Jesus,CR 58   45   28,Informal,Compra y Venta de material,72,No los recolecta.,Ambiental,Transforma.,Si,Cooperativismo,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,10/31/2012 22:14,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,"(4716294.528700001, 2251791.2430000007)",2227,2012,4716294.529,2251791.243,El Amigazo,Comuna 4 Aranjuez,Moravia,CR 52   77   13,Informal,Compra y Venta de material,360,No los recolecta.,Empresarial,Municipio de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,1,10/31/2012 22:31,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136,"(4716060.537800002, 2252018.562300002)",2228,2012,4716060.538,2252018.562,J�sica Usuga Montoya,Comuna 4 Aranjuez,Moravia,CL 77   55 B  38,Informal,Compra y Venta de material,60,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,No,0,10/31/2012 22:51,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,"(4716081.629800001, 2251994.569599999)",2229,2012,4716081.63,2251994.57,Excedentes D.C,Comuna 4 Aranjuez,Moravia,CL 77   55 B  10,Formal,Compra y Venta de material,24,No los recolecta.,Organizacional,Municipio de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,3,10/31/2012 23:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+138,"(4715860.599900002, 2249970.412700003)",2230,2012,4715860.6,2249970.413,Dep�sito Cocha,Comuna 10 La Candelaria,Estaci�n Villa,CR 53   56   44,Formal,Compra y Venta de material,192,No los recolectan.,Todos los anteriores,"Municipio de Medell�n, Recimed y  Cooperativa Recuperar.",No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,10/31/2012 23:13,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,"(4715871.1956, 2250000.300300002)",2231,2012,4715871.196,2250000.3,Chatarrrer�a Choncho,Comuna 10 La Candelaria,Estaci�n Villa,CR 53   56   72,Formal,Transformaci�n,120,No los recolectan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,No,Si,Si,No,Si,No,No,No,Si,20,11/1/2012 22:37,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,"(4715871.394000001, 2249991.779500002)",2232,2012,4715871.394,2249991.78,La Fragua,Comuna 10 La Candelaria,Estaci�n Villa,CR 53   56   60,Formal,Compra y Venta de material,84,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/1/2012 22:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+141,"(4715665.320200001, 2250086.2532)",2233,2012,4715665.32,2250086.253,Augusto Cesar Aguirre Alzate,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   54   104,Formal,Compra y Venta de material,1,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,1,11/1/2012 23:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142,"(4716232.231500001, 2251852.746200001)",2234,2012,4716232.232,2251852.746,Recuperadora Sembrando Futuro,Comuna 4 Aranjuez,Moravia,CL 77   53   40,Formal,Compra y Venta de material,8,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,11/1/2012 23:15,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,"(4715418.351399999, 2251905.8289)",2235,2012,4715418.351,2251905.829,Chatarrer�a La 64C,Comuna 5 Castilla,Caribe,CR 64 C  75   10,Formal,Compra y Venta de material,12,No los recolecta.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,3,11/1/2012 23:27,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,"(4715670.415600001, 2250085.3384000026)",2237,2012,4715670.416,2250085.338,Recuperadora La 57,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   54   96,Formal,Compra y Venta de material,156,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,No,0,11/2/2012 16:28,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145,"(4715676.6104000015, 2250084.2882000003)",2238,2012,4715676.61,2250084.288,Remates Excedentes La Zaga,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   54   88,Informal,Compra y Venta de material,12,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,Si,No,No,No,Si,2,11/2/2012 16:48,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,"(4715822.9048, 2250032.6652000025)",2239,2012,4715822.905,2250032.665,Chatarrer�a Cosmos,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   53   31,Informal,Compra y Venta de material,60,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,6,11/2/2012 16:59,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,"(4715821.4599, 2249947.6744)",2240,2012,4715821.46,2249947.674,Bodega de Reciclaje La 56,Comuna 10 La Candelaria,Estaci�n Villa,CL 56   53   22,Formal,"Compra, Venta y Beneficio",2,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,No,No,No,No,No,Si,2,11/2/2012 17:09,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+148,"(4715048.4436, 2249106.574699998)",2241,2012,4715048.444,2249106.575,Excedentes Industriales J.G,Comuna 10 La Candelaria,Coraz�n de Jesus,CL 45   57 A  36,Formal,Compra y Venta de material,240,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,3,11/2/2012 17:18,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149,"(4715267.7919, 2249061.996200001)",2246,2012,4715267.792,2249061.996,Excedentes Los Primos,Comuna 10 La Candelaria,Guayaquil,CL 45 A  55   21,Formal,Compra y Venta de material,48,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,No,Si,No,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,No,0,11/2/2012 17:08,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,"(4715279.0907000005, 2249041.2916)",2247,2012,4715279.091,2249041.292,Comercializadora Crazy Metal S.A.S,Comuna 10 La Candelaria,Guayaquil,CR 55   45   37,Informal,Compra y Venta de material,48,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/2/2012 17:20,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,"(4715783.6313000005, 2250054.2864000015)",2248,2012,4715783.631,2250054.286,Remates Chaverra,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   53   70,Informal,Compra y Venta de material,96,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/2/2012 17:29,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,"(4715845.141500001, 2249999.3275000043)",2249,2012,4715845.142,2249999.328,Excedentes Industriales G.R,Comuna 10 La Candelaria,Estaci�n Villa,CR 53   56   65,Formal,Compra y Venta de material,72,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,5,11/2/2012 17:38,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+153,"(4715880.719400001, 2249947.8751)",2250,2012,4715880.719,2249947.875,Laura Hern�ndez,Comuna 10 La Candelaria,Estaci�n Villa,CL 56   52   70,Formal,Compra y Venta de material,120,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,3,11/2/2012 17:46,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+154,"(4715801.328600001, 2250322.0933000036)",2251,2012,4715801.329,2250322.093,Sa�l An�bal Cuello Rold�n,Comuna 10 La Candelaria,Jesus Nazareno,CR 54   59   73,Informal,Compra y Venta de material,3,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,2,11/2/2012 17:53,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,"(4716033.648600002, 2248354.9618000016)",2252,2012,4716033.649,2248354.962,Reciclaje Dar,Comuna 10 La Candelaria,Las Palmas,CR 44   42   18,Informal,Compra y Venta de material,240,No los recolecta.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,1,11/2/2012 18:02,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,"(4716119.5376, 2248663.1448000018)",2253,2012,4716119.538,2248663.145,Real Sociedad,Comuna 10 La Candelaria,Barrio Colon,CR 44   44   101,Formal,Compra y Venta de material,48,No los compran.,Organizacional,Cooperativa Recuperar.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,Si,7,11/2/2012 12:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+157,"(4716055.4365, 2248504.5215000007)",2254,2012,4716055.437,2248504.522,Fabi�n Rodr�guez,Comuna 10 La Candelaria,Las Palmas,CR 44   43   77,Formal,Compra y Venta de material,240,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,Si,4,11/2/2012 12:11,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+158,"(4716125.2223000005, 2248604.9987000003)",2255,2012,4716125.222,2248604.999,Camilo G�mez,Comuna 10 La Candelaria,Barrio Colon,CR 44   44   51,Informal,Compra y Venta de material,7,No se compra.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,Si,1,11/2/2012 12:21,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+159,"(4715881.967, 2248489.3369999994)",2260,2012,4715881.967,2248489.337,Recuperadora Ambiental de Papeles y Metales,Comuna 10 La Candelaria,Barrio Colon,CR 46   42   70,Formal,Compra y Venta de material,60,No los compran.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,3,11/2/2012 12:31,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+160,"(4715770.8552, 2250015.329)",2262,2012,4715770.855,2250015.329,Luis Alfonso Saldarriaga Duque,Comuna 10 La Candelaria,Estaci�n Villa,CR 54   56   70,Formal,Compra y Venta de material,120,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,2,11/2/2012 12:26,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+161,"(4715816.7882, 2250047.6646999996)",2263,2012,4715816.788,2250047.665,Materiales ACH,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   53   40,Formal,Compra y Venta de material,72,No los compran.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,11/2/2012 12:36,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+162,"(4715788.165100001, 2250083.7535000015)",2264,2012,4715788.165,2250083.754,Excedentes Monable,Comuna 10 La Candelaria,Estaci�n Villa,CR 54   57   48,Formal,Compra y Venta de material,84,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/2/2012 12:43,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+163,"(4715640.560900002, 2250033.0254000016)",2265,2012,4715640.561,2250033.025,Bralco,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   54   121,Formal,Compra y Venta de material,84,No los compra.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,3,11/2/2012 12:50,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+164,"(4715863.027200002, 2250000.6001000013)",2266,2012,4715863.027,2250000.6,Chatarreria Robin,Comuna 10 La Candelaria,Estaci�n Villa,CR 53   56   67,Formal,Compra y Venta de material,14,No los compran.,Ninguna,NR.,Si,Salud ocupacional.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,No,0,11/2/2012 13:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+165,"(4715943.860200001, 2248520.352600001)",2267,2012,4715943.86,2248520.353,Compraventa RH,Comuna 10 La Candelaria,Barrio Colon,CL 43   45   11,Formal,Compra y Venta de material,24,No los compra.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,4,11/2/2012 13:16,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,"(4712273.2261, 2245259.5503000002)",2268,2012,4712273.226,2245259.55,Chatarrer�a La Nobleza,Comuna 16 Bel�n,El Rinc�n,CR 78   2 A  21,Formal,Compra y Venta de material,120,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,1,11/2/2012 13:57,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+167,"(4712571.5945, 2246666.5584000014)",2269,2012,4712571.595,2246666.558,Excedentes Industriales La 78-21,Comuna 16 Bel�n,San Bernardo,CR 78   21 A  14,Formal,Compra y Venta de material,192,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,No,0,11/2/2012 10:18,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+168,"(4712831.281400001, 2246923.3154000025)",2270,2012,4712831.281,2246923.315,Sol Naciente,Comuna 16 Bel�n,San Bernardo,CR 76   26 A  36,Formal,Compra y Venta de material,60,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,0,11/2/2012 9:49,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+169,"(4711709.191700001, 2246579.7479999997)",2271,2012,4711709.192,2246579.748,Chatarrer�a La 20,Comuna 16 Bel�n,La Gloria,CL 20   83   29,Formal,Compra y Venta de material,48,NR.,Todos los anteriores,Secretar�a de Medio Ambiente y Secretar�a de salud de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,No,No,No,Si,1,11/2/2012 10:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+170,"(4715747.500600002, 2249906.466400001)",2396,2012,4715747.501,2249906.466,Excedentes Los Coste�os,Comuna 10 La Candelaria,Estaci�n Villa,CR 54   54   86,Formal,Compra y Venta de material,3,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/7/2012 23:17,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+171,"(4715624.295000001, 2249808.4201999996)",2397,2012,4715624.295,2249808.42,Recicladora Renova,Comuna 10 La Candelaria,Estaci�n Villa,CL 53   54   154,Formal,Compra y Venta de material,2,No los maneja.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/7/2012 23:31,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+172,"(4716079.463, 2250103.636600001)",2398,2012,4716079.463,2250103.637,Centro de Acopio Municipal N� 2 (Arreciclar),Comuna 10 La Candelaria,Jesus Nazareno,CL 58   51 D  26,Informal,Compra y Venta de material,24,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,11/7/2012 23:47,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+173,"(4714897.0457000015, 2255582.177100001)",2399,2012,4714897.046,2255582.177,Chatarrer�a La Torre,Comuna 6 Doce de Octubre,Doce de Octubre No.1,CR 81   104 E  34,Formal,Compra y Venta de material,24,Est� prohibido.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/9/2012 13:43,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,"(4714369.031700001, 2254996.1533000004)",2400,2012,4714369.032,2254996.153,Hern�n Dar�o Ram�rez,Comuna 6 Doce de Octubre,Picacho,CR 84   101 A  24,Formal,"Compra, Venta y Beneficio",36,No los maneja y no reciben ese tipo de materiales.,Todos los anteriores,"Sura, Cooperativa Recuperar.",No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,Si,No,No,No,No,No,No,Si,12,11/9/2012 13:19,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+175,"(4714178.011300001, 2246995.579)",2683,2012,4714178.011,2246995.579,Chatarrer�a Franco,Comuna 15 Guayabal,Trinidad,CL 28   65 A  44,Formal,Compra y Venta de material,240,Los deposita en la caneca de la basura.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,Si,Si,No,0,11/9/2012 13:51,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,"(4715415.814300001, 2246963.6532000024)",2687,2012,4715415.814,2246963.653,Interactuar-Recuperar,Comuna 14 El Poblado,Barrio Colombia,CR 45   27   47,Informal,Compra y Venta de material,18,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,Si,Si,No,0,11/2/2012 20:02,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+177,"(4714063.306500001, 2244492.162799999)",2688,2012,4714063.307,2244492.163,Excedentes Alex,Comuna 15 Guayabal,Cristo Rey,CL 2  Sur 51 A  12,Formal,Compra y Venta de material,276,No los recolecta.,Ambiental,"Secretar�a de Medio Ambiente de Medell�n, Empresas Varias de Medell�n.",No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/9/2012 13:26,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+178,"(4713701.950400001, 2244663.4907000028)",2689,2012,4713701.95,2244663.491,Jose R R,Comuna 15 Guayabal,Cristo Rey,CR 56   1  Sur 42,Formal,Compra y Venta de material,48,No los compran.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,38:24.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+179,"(4714070.9462, 2244490.045900002)",2694,2012,4714070.946,2244490.046,Chatarrer�a EMR,Comuna 15 Guayabal,Cristo Rey,CL 2  Sur 51 A  6,Formal,Compra y Venta de material,120,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,3,11/9/2012 14:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,"(4714149.6653, 2246545.6334000025)",2695,2012,4714149.665,2246545.633,Chatarrer�a Rodr�guez,Comuna 15 Guayabal,Trinidad,CR 65 B  23   24,Formal,Compra y Venta de material,1,No los compra.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,11/9/2012 13:20,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+181,"(4714013.017700001, 2246613.7063000016)",2696,2012,4714013.018,2246613.706,Mar�n Plas S.A.S,Comuna 15 Guayabal,Trinidad,CR 65 D  24   33,Informal,Compra y Venta de material,84,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,Si,1,11/9/2012 13:39,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+182,"(4713601.567000001, 2243782.6273999996)",2697,2012,4713601.567,2243782.627,Excedentes R.J,Comuna 15 Guayabal,La Colina,CR 52   9 B Sur 23,Formal,Compra y Venta de material,36,NR.,Empresarial,Municipio de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,11/9/2012 13:56,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+183,"(4713821.4165, 2246604.777200002)",2705,2012,4713821.417,2246604.777,Chatarrer�a El Camacho,Comuna 15 Guayabal,Trinidad,CL 25   65 F  20,Formal,Compra y Venta de material,72,No los recolecta.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/9/2012 14:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,"(4713822.6037, 2246532.152300002)",2706,2012,4713822.604,2246532.152,Jairo Restrepo,Comuna 15 Guayabal,Trinidad,CR 65 G  24   67,Formal,Compra y Venta de material,120,No los compra.,Organizacional,Alcald�a de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,Si,Si,Si,3,11/9/2012 14:25,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+185,"(4713898.772100001, 2246412.5638999995)",2707,2012,4713898.772,2246412.564,Recicladora H y F,Comuna 15 Guayabal,Trinidad,CR 65 G  23   31,Formal,Compra y Venta de material,72,No  los maneja.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,11/12/2012 21:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+186,"(4715331.9515, 2246843.3636000026)",2708,2012,4715331.952,2246843.364,Chatarrer�a Todo Negocio,Comuna 14 El Poblado,Barrio Colombia,CR 45   25   91,Formal,Compra y Venta de material,456,No los maneja.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,11/12/2012 21:45,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+187,"(4714268.903900001, 2246990.197300002)",2709,2012,4714268.904,2246990.197,Todo Envases MR,Comuna 15 Guayabal,Trinidad,CR 65   28   27,Formal,Compra y Venta de material,36,No los maneja.,Organizacional,Cuerpo de Bomberos del Municipio de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,26:25.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+188,"(4715414.695000001, 2256018.850800002)",2718,2012,4715414.695,2256018.851,Rosa Castrill�n,Comuna 6 Doce de Octubre,Santander,CR 76 D  114   21,Formal,Compra y Venta de material,84,No los manipulan.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/13/2012 14:28,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+189,"(4715435.5691, 2256009.6182000022)",2719,2012,4715435.569,2256009.618,La Paz,Comuna 6 Doce de Octubre,Santander,CR 76 D  114   10,Informal,Compra y Venta de material,9,No los manipula.,Ambiental,Universidad de Antioquia.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,Si,No,No,No,No,0,34:47.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+190,"(4715256.5447, 2248214.8696000017)",2720,2012,4715256.545,2248214.87,Excedentes Industriales La 39,Comuna 10 La Candelaria,Calle Nueva,CR 53   38   44,Informal,Compra y Venta de material,12,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,No,No,0,11/13/2012 14:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+191,"(4714379.4180000005, 2255073.7862)",2721,2012,4714379.418,2255073.786,Carlos Mario Higuita,Comuna 6 Doce de Octubre,Picacho,CR 84   101 C  38,Formal,Compra y Venta de material,120,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,Si,No,Si,No,No,No,Si,3,11/13/2012 14:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+192,"(4716013.7168000005, 2255388.2064999994)",2723,2012,4716013.717,2255388.207,Fernado Maya Arg�ellez,Comuna 5 Castilla,Tejelo,CR 68 A  106 B  22,Formal,Compra y Venta de material,3,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,2,11/13/2012 14:50,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,"(4715696.488600002, 2253836.3723000027)",2724,2012,4715696.489,2253836.372,Almac�n de Materiales de Segunda El Porvenir,Comuna 5 Castilla,Castilla,CR 66   96   30,Informal,Compra y Venta de material,48,No los recolecta.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,No,0,11/13/2012 15:07,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,"(4715422.592100001, 2255124.150100004)",2725,2012,4715422.592,2255124.15,Ana Luc�a Ochoa Rave,Comuna 6 Doce de Octubre,Pedregal,CL 104 A  74 A  18,Formal,Compra y Venta de material,168,Nunca llegan.,Todos los anteriores,Sena y la Alcald�a de Medell�n.,Si,"En el �rea social ,administrativo y de planeaci�n.",Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,No,No,No,No,No,Si,16,11/13/2012 16:26,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+195,"(4715956.443900002, 2254443.5412999988)",2726,2012,4715956.444,2254443.541,Recicladora M.B,Comuna 5 Castilla,Girardot,CR 66   101 A  32,Formal,Compra y Venta de material,168,No los compran.,Organizacional,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,Si,Si,No,0,11/13/2012 16:37,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196,"(4715366.2774, 2246785.0481000002)",2728,2012,4715366.277,2246785.048,Acodal,Comuna 14 El Poblado,Barrio Colombia,CL 26   44   27,Informal,Compra y Venta de material,84,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,11/13/2012 17:00,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+197,"(4714175.826400001, 2245425.0934000015)",2729,2012,4714175.826,2245425.093,Excedentes La Milagrosa,Comuna 15 Guayabal,Campo Amor,CR 56   9   26,Formal,Compra y Venta de material,6,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/13/2012 17:10,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+198,"(4714820.9998, 2255690.429600004)",2730,2012,4714821,2255690.43,Chatarrer�a Ram�n Antonio Garc�a,Comuna 6 Doce de Octubre,Doce de Octubre No.1,CR 81 A  106   18,Informal,Compra y Venta de material,48,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,Si,No,No,No,No,Si,No,No,No,Si,6,11/13/2012 21:24,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+199,"(4714930.1242, 2255733.0176)",2731,2012,4714930.124,2255733.018,Chatarrer�a Wilfredo Pulgar�n,Comuna 6 Doce de Octubre,Doce de Octubre No.1,CR 81   107   19,Formal,Compra y Venta de material,84,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,No,Si,3,11/13/2012 21:55,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+200,"(4714878.390100001, 2253185.0896000005)",2732,2012,4714878.39,2253185.09,Chatarrer�a Gildardo Montoya,Comuna 5 Castilla,Alfonso Lopez,CR 71 C  89 B  84,Informal,Compra y Venta de material,240,No los manipulan.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,Si,No,No,Si,No,No,No,Si,6,11/13/2012 23:09,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,"(4715370.4822, 2253918.7093)",2733,2012,4715370.482,2253918.709,Julio Eduardo Cano,Comuna 5 Castilla,Castilla,CL 96   70   4,Formal,Compra y Venta de material,72,No los manipula.,Todos los anteriores,Municipio de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 13:18,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202,"(4715319.6198, 2253724.8746000025)",2735,2012,4715319.62,2253724.875,Pl�sticos El Porvenir,Comuna 5 Castilla,Castilla,CR 70   94   92,Informal,Compra y Venta de material,36,No los manipulan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,Si,Si,Si,Si,No,0,11/16/2012 13:32,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+203,"(4713769.5462, 2253431.8655000012)",3026,2012,4713769.546,2253431.866,La Finquita,Comuna 7 Robledo,El Diamante,CL 80   87 A  57,Formal,Compra y Venta de material,384,No los compra.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 13:38,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+204,"(4713222.6472000005, 2253919.603500003)",3027,2012,4713222.647,2253919.604,El Guaje,Comuna 7 Robledo,Aures No.2,CR 94   79 A  95,Formal,Compra y Venta de material,32,No los compra.,Ambiental,"Corpoambiental, Cooperativa Recuperar,Secretar�a de Medio Ambiente de Medell�n.",No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,Si,Si,No,No,Si,10,50:14.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+205,"(4712929.5708, 2253698.5658)",3028,2012,4712929.571,2253698.566,Chatarrer�a del Acopio,Comuna 7 Robledo,Aures No.1,CR 95   77 F  59,Formal,Compra y Venta de material,24,No los compra.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,No,0,11/16/2012 13:57,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,"(4717064.876899999, 2248194.6149000023)",3029,2012,4717064.877,2248194.615,Chatarrer�a El Amigo,Comuna 9 Buenos Aires,Buenos Aires,CL 45   34   86,Formal,Compra y Venta de material,84,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,2,11/16/2012 15:43,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+207,"(4717125.381000001, 2248078.794400001)",3030,2012,4717125.381,2248078.794,Cornambiente,Comuna 9 Buenos Aires,Gerona,CR 33 A  44   21,Informal,Compra y Venta de material,6,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,Si,Si,No,No,No,No,No,No,No,No,0,11/16/2012 15:53,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+208,"(4717827.292600001, 2247741.260800002)",3031,2012,4717827.293,2247741.261,Luis Angel Piedrah�ta,Comuna 9 Buenos Aires,Miraflores,CR 24   45   28,Informal,Compra y Venta de material,24,NR.,Ninguna,NR.,No,NR.,Buenos,No,No,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,No,Si,2,11/16/2012 16:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+209,"(4718953.7988, 2247606.5357000045)",3036,2012,4718953.799,2247606.536,El Descanso,Comuna 9 Buenos Aires,Alejandro Echavarria,CL 51   16   4,Informal,Compra y Venta de material,36,No los manipulan.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 16:02,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210,"(4718953.7988, 2247606.5357000045)",3037,2012,4718953.799,2247606.536,Rubio Hern�ndez,Comuna 9 Buenos Aires,Alejandro Echavarria,CL 51   15   6,Informal,Compra y Venta de material,24,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,No,No,0,11/16/2012 16:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+211,"(4713031.999, 2252497.1183)",3038,2012,4713031.999,2252497.118,Chatarrer�a El T�o,Comuna 7 Robledo,Palenque,CL 68 A  86   58,Formal,Compra y Venta de material,24,No los recolecta.,Todos los anteriores,Almacenes Exito.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,Si,Si,Si,2,11/16/2012 15:59,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,"(4711394.909500001, 2252754.6516000032)",3039,2012,4711394.91,2252754.652,Hector Ocampo,Comuna 7 Robledo,Cucaracho,CR 98   63   165,Formal,"Compra, Venta y Beneficio",60,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,Si,Si,No,0,11/16/2012 17:43,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+213,"(4710113.9087000005, 2252330.873900002)",3041,2012,4710113.909,2252330.874,Chatarrer�a Mario,Comuna 7 Robledo,Santa Margarita,CL 63   110   171,Informal,Compra y Venta de material,9,No los compra ni los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 18:08,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+214,"(4713863.000300002, 2251121.0787000023)",3047,2012,4713863,2251121.079,Excedentes Wilson Giraldo,Comuna 7 Robledo,San Germ�n,CL 65   74   105,Formal,Compra y Venta de material,14,No los compra.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,Si,1,11/16/2012 18:19,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,"(4713885.8132, 2251020.0310999993)",3048,2012,4713885.813,2251020.031,Excedentes Escobar,Comuna 7 Robledo,San Germ�n,CL 65   70   85,Formal,Compra y Venta de material,36,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,28:29.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+216,"(4713029.9674, 2253296.444700001)",3049,2012,4713029.967,2253296.445,Chatarrer�a Alirio,Comuna 7 Robledo,Aures No.1,CL 77 C  91 B  111,Informal,Compra y Venta de material,24,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 18:38,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+217,"(4713297.7924, 2253564.8093)",3050,2012,4713297.792,2253564.809,La Vuelta de Paco,Comuna 7 Robledo,Aures No.1,CR 91 B  78 A  65,Formal,Compra y Venta de material,48,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,8,53:24.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,"(4713297.5914, 2253988.376000002)",3051,2012,4713297.591,2253988.376,Excedentes Aranarmo,Comuna 7 Robledo,Aures No.2,CR 93 A  82   54,Formal,"Compra, Venta y Beneficio",108,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,Si,Si,No,0,11/16/2012 19:17,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219,"(4713318.8894, 2253981.883199999)",3052,2012,4713318.889,2253981.883,Jorge Henao,Comuna 7 Robledo,Aures No.2,CR 93   83   31,Informal,Compra y Venta de material,36,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 19:02,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,"(4713564.634999999, 2252746.006500002)",3053,2012,4713564.635,2252746.007,El Cucho,Comuna 7 Robledo,Bello Horizonte,CR 83   77 AB  17,Formal,Compra y Venta de material,36,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 19:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+221,"(4716819.9106, 2248202.3625000045)",3054,2012,4716819.911,2248202.363,Rubio Asociados,Comuna 9 Buenos Aires,Gerona,CR 36 A  42   45,Informal,Compra y Venta de material,36,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 20:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+222,"(4713251.588400001, 2243089.5671999995)",3055,2012,4713251.588,2243089.567,El Porvenir,Comuna 15 Guayabal,La Colina,CR 53   13 C Sur 34,Informal,Compra y Venta de material,72,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 20:16,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,"(4718859.6794, 2249077.9441)",3056,2012,4718859.679,2249077.944,Chatarrer�a Roque,Comuna 8 Villa Hermosa,Trece de Noviembre,CR 19   56 HC  16,Formal,Compra y Venta de material,120,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 20:29,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,"(4718528.4469, 2248464.926400004)",3057,2012,4718528.447,2248464.926,Chatarrer�a Plazoleta,Comuna 8 Villa Hermosa,El Pinal,CR 23   56   4,Informal,Compra y Venta de material,24,No los manipula.,Ambiental,Comfama.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,Si,No,No,No,Si,1,42:54.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+225,"(4718014.205599999, 2249049.1773000006)",3058,2012,4718014.206,2249049.177,El Sarco,Comuna 8 Villa Hermosa,Enciso,CL 57 B  29   7,Formal,Compra y Venta de material,1,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,Si,Si,Si,3,11/16/2012 22:51,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,"(4718857.462700001, 2249173.753100002)",3059,2012,4718857.463,2249173.753,Chatarrer�a El Descanso,Comuna 8 Villa Hermosa,Trece de Noviembre,CR 19   56 HG  4,Informal,Compra y Venta de material,132,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 20:54,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+227,"(4718665.173900001, 2248276.6789999995)",3061,2012,4718665.174,2248276.679,Chatarrer�a Francisco,Comuna 8 Villa Hermosa,La Libertad,CR 20 C  56   63,Informal,Compra y Venta de material,24,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/16/2012 21:33,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+228,"(4717423.8876, 2248583.3023999985)",3062,2012,4717423.888,2248583.302,Chatarrer�a El Rey,Comuna 9 Buenos Aires,Barrio Caicedo,CL 51   33   15,Informal,Compra y Venta de material,120,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,3,11/16/2012 23:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+229,"(4719093.240600002, 2249070.185799999)",3063,2012,4719093.241,2249070.186,Chatarrer�a Gerardo,Comuna 8 Villa Hermosa,Trece de Noviembre,CR 18 C  56 HG  38,Informal,Compra y Venta de material,120,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,2,11/16/2012 23:36,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+230,"(4718368.5397, 2248796.5909)",3064,2012,4718368.54,2248796.591,Centro de Acopio Reciclaje Comunitario,Comuna 8 Villa Hermosa,El Pinal,CR 25 BB  56   65,Informal,Compra y Venta de material,360,No los manipula.,Organizacional,Prosperar.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,1,11/16/2012 23:50,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+231,"(4718174.0127, 2249443.6316)",3065,2012,4718174.013,2249443.632,Chatarrer�a Libardo,Comuna 8 Villa Hermosa,Los Mangos,CR 27   59   94,Formal,Compra y Venta de material,72,No los manipula.,Organizacional,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/19/2012 13:57,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+232,"(4717103.174800002, 2247567.760399999)",3066,2012,4717103.175,2247567.76,Compraventa La Oficina,Comuna 9 Buenos Aires,Loreto,CR 30 A  38 B  37,Formal,Compra y Venta de material,12,No los manipula en la compraventa.,Todos los anteriores,Municipio de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,11/19/2012 14:07,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+233,"(4717560.444300001, 2248503.5902000014)",3067,2012,4717560.444,2248503.59,Unidad Productiva Los Puentes,Comuna 9 Buenos Aires,Barrio Caicedo,CR 32   51   12,Formal,Compra y Venta de material,84,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,No,No,No,No,Si,No,No,No,No,No,No,No,Si,1,11/21/2012 11:28,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+234,"(4717335.169900001, 2248659.061899999)",3068,2012,4717335.17,2248659.062,Chatarrer�a Mar�a Virginia,Comuna 9 Buenos Aires,Barrio Caicedo,CL 51   34   36,Formal,Compra y Venta de material,36,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/21/2012 11:53,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+235,"(4716598.8326, 2251996.0774000026)",3069,2012,4716598.833,2251996.077,Chatarrer�a La Palmera,Comuna 4 Aranjuez,Miranda,CL 80   50 C  114,Formal,Compra y Venta de material,72,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,Si,No,No,No,No,0,11/21/2012 13:13,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,"(4716799.351000001, 2251976.606300004)",3070,2012,4716799.351,2251976.606,Chatarrer�a El Buen Precio,Comuna 4 Aranjuez,Brasilia,CL 80   50 B  38,Informal,Compra y Venta de material,48,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,No,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/24/2012 10:23,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+237,"(4717986.6258000005, 2251223.9439000003)",3071,2012,4717986.626,2251223.944,Chatarrer�a La 39,Comuna 3 Manrique,Manrique Central No.2,CR 39   71 AA  5,Formal,Compra y Venta de material,84,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,36:50.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+238,"(4715551.165400001, 2253722.9782)",3072,2012,4715551.165,2253722.978,Carlos Arturo V�lez,Comuna 5 Castilla,Castilla,CR 65   95   19,Informal,Compra y Venta de material,120,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,11/24/2012 10:50,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+239,"(4712537.042200001, 2251414.8049000017)",3073,2012,4712537.042,2251414.805,Consuelo Monzaner,Comuna 12 La Am�rica,Calasanz Parte Alta,CL 54   82   57,Informal,Compra y Venta de material,144,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/24/2012 11:08,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+240,"(4710004.498800001, 2249493.7233000044)",3110,2012,4710004.499,2249493.723,Ramiro Giraldo,Comuna 13 San Javier,Veinte de Julio,CR 109   39   18,Informal,Compra y Venta de material,1,No los compran.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/24/2012 15:40,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+241,"(4709875.560300002, 2249519.0928000044)",3112,2012,4709875.56,2249519.093,Chatarrer�a Aristi,Comuna 13 San Javier,Veinte de Julio,CL 39 B  110   19,Formal,Compra y Venta de material,12,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/26/2012 19:31,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+242,"(4710651.2499, 2250048.5769999996)",3113,2012,4710651.25,2250048.577,Luis Eduardo �lvarez Bedoya,Comuna 13 San Javier,San Javier No.1,CL 43   99   36,Formal,Transformaci�n,132,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,No,Si,Si,Si,No,No,No,No,Si,30,11/26/2012 19:48,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+243,"(4711404.663200001, 2250298.5175)",3114,2012,4711404.663,2250298.518,La Isla,Comuna 13 San Javier,Los Alcazares,CR 93   48 A  50,Informal,Compra y Venta de material,48,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,11/28/2012 15:36,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+244,"(4714853.265500001, 2253897.360600004)",3151,2012,4714853.266,2253897.361,Gloria Elena Ram�rez,Comuna 6 Doce de Octubre,La Esperanza,CR 74   94   107,Formal,Compra y Venta de material,1,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,11/28/2012 15:54,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+245,"(4714741.6534, 2254446.319700001)",3152,2012,4714741.653,2254446.32,Cristian Adolfo Ram�rez Tob�n,Comuna 6 Doce de Octubre,San Mart�n de Porres,CL 98   75 B  54,Formal,Compra y Venta de material,4,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,No,No,Si,Si,No,0,11/28/2012 16:19,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+246,"(4714773.726500002, 2251826.6558999997)",3153,2012,4714773.727,2251826.656,Guatas y Acolchados,Comuna 5 Castilla,El Progreso,CR 67   71   116,Informal,Compra y Venta de material,6,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,1,11/28/2012 16:36,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+247,"(4709805.206000001, 2249356.503200002)",3427,2012,4709805.206,2249356.503,Dar�o Fl�rez,Comuna 13 San Javier,Las Independencias,CR 112   34 DD  128,Informal,Compra y Venta de material,1,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,11/28/2012 17:19,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+248,"(4715825.757100002, 2250043.3910000026)",3428,2012,4715825.757,2250043.391,Demoliciones La Paz,Comuna 10 La Candelaria,Estaci�n Villa,CL 57   53   32,Informal,Compra y Venta de material,8,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/28/2012 17:28,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+249,"(4716211.089000001, 2254446.0943)",3429,2012,4716211.089,2254446.094,Chatarrer�a Colias,Comuna 5 Castilla,Belalcazar,CL 103   64   35,Informal,Compra y Venta de material,48,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,Si,1,11/28/2012 17:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+250,"(4717101.550500002, 2255864.8981000036)",3430,2012,4717101.551,2255864.898,Chatarrer�a Alejo,Comuna 5 Castilla,Toscana,CR 62 E  113 CC  74,Formal,Compra y Venta de material,36,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,No,0,11/29/2012 15:43,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+251,"(4709990.6642, 2248879.6111000013)",3431,2012,4709990.664,2248879.611,Guillermo Le�n Guzm�n,Comuna 13 San Javier,Betania,CL 34 B  106   25,Formal,"Compra, Venta y Beneficio",36,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,Si,No,No,No,No,No,No,No,0,11/29/2012 15:51,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+252,"(4710241.345500001, 2249045.2415000014)",3432,2012,4710241.346,2249045.242,Rubiela P�rez,Comuna 13 San Javier,Betania,CR 106 C  34 F  50,Informal,Compra y Venta de material,240,No los manipula.,Todos los anteriores,Secretar�a de Salud de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,4,11/29/2012 16:02,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+253,"(4710976.983099999, 2251289.555700004)",3433,2012,4710976.983,2251289.556,Viviana S�nchez, ,Sin Nombre,CR 99 EE  49 AA  55,Informal,Compra y Venta de material,240,No los compran.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,11/29/2012 16:16,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+254,"(4712193.553300001, 2244955.727000002)",3578,2012,4712193.553,2244955.727,Recicladora La 1 Sur,Comuna 16 Bel�n,El Rinc�n,CL 1  Sur 79   29,Informal,Compra y Venta de material,36,No los compra.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,8,11/29/2012 16:27,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+255,"(4712192.525200001, 2245399.6214000043)",3579,2012,4712192.525,2245399.621,Chatarrer�a Jos�,Comuna 16 Bel�n,El Rinc�n,CR 78 B  3   104,Informal,Compra y Venta de material,72,No los manejan.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,11/29/2012 16:34,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+256,"(4717327.376200001, 2255440.9518999998)",3580,2012,4717327.376,2255440.952,Chatarrer�a Ofelia P�rez,Comuna 2 Santa Cruz,La Frontera,CR 52   120   1,Informal,Compra y Venta de material,2,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,1,45:29.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+257,"(4717324.765400002, 2255448.904500002)",3581,2012,4717324.765,2255448.905,Chatarrer�a La 120,Comuna 2 Santa Cruz,La Frontera,CR 52   120   3,Formal,Compra y Venta de material,360,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/29/2012 16:46,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+258,"(4717244.0333, 2255447.8917999994)",3582,2012,4717244.033,2255447.892,El Barbao,Comuna 2 Santa Cruz,La Frontera,CL 120   52   94,Informal,Compra y Venta de material,72,No los manipula.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,11/29/2012 20:38,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+259,"(4716938.1105, 2254010.8818999995)",3583,2012,4716938.111,2254010.882,Excedentes Alcar�z,Comuna 2 Santa Cruz,Santa Cruz,CR 50 C  100   17,Formal,"Compra, Venta y Beneficio",60,No llegan a la compraventa.,Todos los anteriores,Cooperenka.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,No,Si,No,No,No,No,No,No,Si,7,11/29/2012 21:00,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260,"(4711376.6177, 2250291.284400003)",3584,2012,4711376.618,2250291.284,Recicladora y Chatarrer�a La Isla,Comuna 13 San Javier,Los Alcazares,CR 93   48 A  52,Informal,"Compra, Venta y Beneficio",48,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,Si,Si,Si,2,11/29/2012 21:33,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+261,"(4714620.1783, 2254141.531199999)",3585,2012,4714620.178,2254141.531,Chatarrer�a Jairo,Comuna 6 Doce de Octubre,San Mart�n de Porres,CR 76   95   127,Formal,Compra y Venta de material,3,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,No,No,No,No,No,0,11/30/2012 12:37,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+262,"(4717233.494400001, 2255519.1811999995)",3593,2012,4717233.494,2255519.181,Chatarrer�a Edgar,Comuna 2 Santa Cruz,La Frontera,CL 120   52   92,Formal,Compra y Venta de material,12,per no los manipula,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,3,11/30/2012 13:11,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263,"(4715258.553300001, 2254181.595300004)",3594,2012,4715258.553,2254181.595,Chatarrer�a Edgar Cardona,Comuna 6 Doce de Octubre,La Esperanza,CR 72 A  97   80,Formal,"Compra, Venta y Beneficio",72,No no los manipula.,Todos los anteriores,�rea Metropolitana del Valle de Aburr� y Asei Ltda.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,Si,No,No,Si,13,11/30/2012 13:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+264,"(4713826.921000001, 2246525.4214000013)",3659,2012,4713826.921,2246525.421,FYM Reciclaje,Comuna 15 Guayabal,Trinidad,CR 65 G  24   61,Formal,Compra y Venta de material,4,No los manipula.,Organizacional,�rea Metropolitana del Valle de Aburr�.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,Si,3,11/30/2012 13:00,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+265,"(4714395.465300001, 2247474.174300002)",3660,2012,4714395.465,2247474.174,Colombiana kimberly (fibra),Comuna 16 Bel�n,Cerro Nutibara,CL 30 A  58   14,Formal,Compra y Venta de material,12,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,8,11/30/2012 13:31,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+266,"(4714491.4691, 2247473.1872999985)",3661,2012,4714491.469,2247473.187,Intermediaria de Reciclaje,Comuna 16 Bel�n,Cerro Nutibara,CL 30 A  57   12,Formal,Compra y Venta de material,24,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,1,11/30/2012 13:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+267,"(4713790.8508, 2246587.065899998)",3662,2012,4713790.851,2246587.066,Recimed,Comuna 15 Guayabal,Trinidad,CL 25   65 G  16,Formal,Compra y Venta de material,108,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,Si,No,No,No,No,0,04:23.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+268,"(4714385.534400001, 2247441.0631000027)",3663,2012,4714385.534,2247441.063,Acopio Coomulvit,Comuna 15 Guayabal,Tenche,CL 30 A  58   31,Formal,Compra y Venta de material,6,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,12/4/2012 19:14,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+269,"(4717328.994800002, 2255558.540000001)",3664,2012,4717328.995,2255558.54,Excedentes Industriales JC S.A.S,Comuna 2 Santa Cruz,La Frontera,CR 52   120 A  117,Informal,Compra y Venta de material,12,No los compra.,Ninguna,NR.,No,NR.,Regulares,No,Si,Si,No,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,12/4/2012 19:26,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+270,"(4713116.323500001, 2246726.500099998)",3665,2012,4713116.324,2246726.5,Excedentes La 25,Comuna 16 Bel�n,San Bernardo,CL 25   72   18,Formal,Compra y Venta de material,168,No los compra.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/4/2012 19:39,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+271,"(4709141.7265, 2249810.3192999996)",3782,2012,4709141.727,2249810.319,Chatarrer�a El Mu�eco,Comuna 13 San Javier,El Salado,CR 120   39 FC  31,Formal,Compra y Venta de material,26,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,1,12/10/2012 9:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+272,"(4710042.087900001, 2249255.5661999993)",3783,2012,4710042.088,2249255.566,La Nueva Gloria,Comuna 13 San Javier,Las Independencias,CR 109   35 F  60,Informal,Compra y Venta de material,36,No los manipulan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,1,12/10/2012 9:49,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+273,"(4710006.925800001, 2250453.876900004)",3784,2012,4710006.926,2250453.877,Chatarrer�a Don Miguel,Comuna 13 San Javier,Antonio Nari�o,CL 48 B  107 B  54,Informal,Compra y Venta de material,180,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/10/2012 9:39,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+274,"(4709400.052700001, 2249420.990600003)",3785,2012,4709400.053,2249420.991,Luis Correa Zapata,Comuna 13 San Javier,Nuevos Conquistadores,CR 115 B  39 A  48,Informal,Compra y Venta de material,48,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,3,12/10/2012 9:48,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+275,"(4717454.476400002, 2252504.9300999977)",4016,2012,4717454.476,2252504.93,Chatarrer�a La Marranea,Comuna 4 Aranjuez,Las Esmeraldas,CR 46 A  86   34,Formal,Compra y Venta de material,72,No los compra.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,12/10/2012 10:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,"(4710948.221099999, 2247298.8003000002)",4017,2012,4710948.221,2247298.8,Dep�sito La 88,Comuna 16 Bel�n,Las Violetas,CR 88   30 B  59,Formal,Compra y Venta de material,120,No los compran ni los recolectan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,12/10/2012 10:08,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+277,"(4717018.738300002, 2253399.725800002)",4018,2012,4717018.738,2253399.726,Chatarrer�a BG,Comuna 4 Aranjuez,San Isidro,CR 50 A  94   115,Formal,Compra y Venta de material,96,No los manipula.,Organizacional,Secretar�a de Salud de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,1,12/10/2012 10:11,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+278,"(4717605.695300002, 2253476.683600001)",4019,2012,4717605.695,2253476.684,Chatarrer�a El Mono,Comuna 1 Popular,Villa Guadalupe,CL 96   45 A  70,Informal,Compra y Venta de material,12,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,7,12/10/2012 10:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279,"(4717443.3972, 2251988.4429)",4020,2012,4717443.397,2251988.443,Excedentes Fernando,Comuna 4 Aranjuez,Campo Valdes No.1,CR 46   81   54,Informal,Compra y Venta de material,96,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,12/10/2012 10:24,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+280,"(4711735.8977, 2246912.3090000004)",4021,2012,4711735.898,2246912.309,Chatarrer�a Ram�n Reciclajes,Comuna 16 Bel�n,Altavista,CR 83   26   41,Informal,Compra y Venta de material,24,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,12/10/2012 9:48,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+281,"(4714469.8128, 2246700.4356999993)",4022,2012,4714469.813,2246700.436,Corporaci�n Lo Bueno de Reciclar,Comuna 15 Guayabal,Trinidad,CR 57   24   56,Informal,Compra y Venta de material,14,No los manipula.,Organizacional,Empresas Varias de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/10/2012 10:00,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+282,"(4712726.249000002, 2247476.0034000017)",4023,2012,4712726.249,2247476.003,Chatarrer�a Beta,Comuna 16 Bel�n,Bel�n,CR 77   31   50,Informal,Compra y Venta de material,120,No los manipula.,Todos los anteriores,Municipio de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,12/10/2012 10:19,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+283,"(4719678.043900001, 2250924.4378999993)",4024,2012,4719678.044,2250924.438,chatarrer�a La Honda,Corregimiento 90 Corregimiento de Santa Elena,Piedras Blancas - Matasano,CL 71 B  0   0,Informal,Compra y Venta de material,12,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,3,12/10/2012 10:26,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+284,"(4717361.9697, 2250829.2627000026)",4026,2012,4717361.97,2250829.263,Mart�n Hern�ndez,Comuna 3 Manrique,Manrique Central No.2,CR 45   68   4,Formal,Compra y Venta de material,24,No llegan a la compraventa.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/10/2012 18:24,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+285,"(4717736.1648, 2253018.8407000024)",4027,2012,4717736.165,2253018.841,Chatarrer�a Mara�a,Comuna 3 Manrique,La Salle,CR 44 A  92   67,Formal,Compra,360,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,Si,No,Si,Si,Si,70,12/12/2012 17:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+286,"(4717995.641400002, 2253071.186400002)",4028,2012,4717995.641,2253071.186,Chatarrer�a Murillo,Comuna 3 Manrique,La Salle,CL 93   40   55,Formal,Transformaci�n,120,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,Si,No,Si,No,Si,Si,Si,5,12/12/2012 20:54,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+287,"(4711077.0498, 2247514.175400004)",4029,2012,4711077.05,2247514.175,Chatarrer�a El Negro,Comuna 16 Bel�n,Las Violetas,CR 87 D  31 B  7,Formal,"Compra, Venta y Beneficio",360,No los recolectan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,Si,Si,Si,20,12/12/2012 21:25,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+288,"(4716371.8623, 2248579.3379000016)",4130,2012,4716371.862,2248579.338,Excedentes La Abundancia,Comuna 10 La Candelaria,Bombona No.1,CL 46   42   68,Formal,"Compra, Venta y Beneficio",276,No los recolectan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,Si,Si,Si,12,12/12/2012 21:50,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+289,"(4713546.3396, 2243402.649)",4233,2012,4713546.34,2243402.649,CI Almaseg- Almacen de Materiales Guillermo Ochoa,Comuna 15 Guayabal,Guayabal,CL 12 B Sur 51 B  40,Formal,Transformaci�n,240,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,Si,No,No,No,Si,Si,Si,25,12/12/2012 22:23,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+290,"(4713418.551300001, 2243537.1754)",4234,2012,4713418.551,2243537.175,CI Almaseg- Fundici�n,Comuna 15 Guayabal,La Colina,CL 12  Sur 52   84,Informal,Compra y Venta de material,2,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,12/14/2012 16:00,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291,"(4714698.11, 2245755.2442000005)",4235,2012,4714698.11,2245755.244,Fibras Nacionales S.A.S,Comuna 15 Guayabal,Santa F�,CR 51   14   63,Informal,Compra y Venta de material,120,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,Si,No,No,No,No,No,Si,4,12/14/2012 15:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+292,"(4714264.276100001, 2243519.4256000016)",4236,2012,4714264.276,2243519.426,Comercializadora de Excedentes Medell�n S.A.S,Comuna 15 Guayabal,Guayabal,CR 50 C  10  Sur 36,Formal,Compra y Venta de material,12,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,12/14/2012 15:43,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+293,"(4716710.243, 2251524.876500001)",4237,2012,4716710.243,2251524.877,B-Plast,Comuna 4 Aranjuez,San Pedro,CL 76   50 B  43,Informal,Compra y Venta de material,36,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,No,0,12/14/2012 15:34,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+294,"(4717767.9421, 2254033.4867000002)",4454,2012,4717767.942,2254033.487,El Paisita,Comuna 2 Santa Cruz,Mosc� No.1,CL 103   45   38,Informal,Compra y Venta de material,12,NR.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,12/14/2012 15:27,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+295,"(4717716.0378, 2255108.8073000014)",4455,2012,4717716.038,2255108.807,Compraventa Cart�n,Comuna 2 Santa Cruz,La Isla,CR 49 C  112   30,Informal,Compra y Venta de material,36,NR.,Organizacional,Secretar�a de Salud de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,12/14/2012 15:19,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+296,"(4717962.751800001, 2255213.144700002)",4456,2012,4717962.752,2255213.145,Jose Robeiro Villada Garcia,Comuna 2 Santa Cruz,La Isla,CL 120   48   55,Informal,Compra y Venta de material,12,No los manipula.,Todos los anteriores,Alcald�a de Medell�n y Asemar.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,12/14/2012 15:12,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+297,"(4718609.5783, 2255104.0682000015)",4457,2012,4718609.578,2255104.068,Chatarrer�a Fe y Alegr�a,Comuna 1 Popular,Popular,CR 42 BB  120   84,Informal,Compraventa m�vil,384,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,Si,No,No,No,No,No,No,No,0,12/16/2012 14:08,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+298,"(4718903.995100001, 2254870.2009999994)",4458,2012,4718903.995,2254870.201,Chatarrer�a Don Jaime,Comuna 1 Popular,Santo Domingo Savio No.2,CR 28 F  111   2,Formal,Compra y Venta de material,5,No los recolecta.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,Si,No,No,No,No,No,No,No,0,22:14.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+299,"(4718881.733500002, 2254867.6305)",4459,2012,4718881.734,2254867.631,Gabriel de Jes�s Ocampo Arenas,Comuna 1 Popular,Santo Domingo Savio No.2,CR 29   111   2,Formal,Transformaci�n,144,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,No,No,Si,No,No,Si,Si,No,No,No,No,No,Si,2,12/17/2012 0:50,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300,"(4718943.1466000015, 2254667.427699998)",4460,2012,4718943.147,2254667.428,Chatarrer�a Ecucans,Comuna 1 Popular,Santo Domingo Savio No.1,CL 110 A  29   12,Formal,Transformaci�n,240,No los recolecta.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,No,Si,Si,No,No,No,No,No,Si,7,12/17/2012 1:04,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301,"(4717608.441900001, 2252637.8209000006)",4541,2012,4717608.442,2252637.821,Humberto Rodr�guez,Comuna 4 Aranjuez,Las Esmeraldas,CR 45 A  87   52,Informal,Compra y Venta de material,12,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,12/19/2012 9:32,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302,"(4716908.165500001, 2248274.1074)",4542,2012,4716908.166,2248274.107,Juan Camilo Narv�ez Posada,Comuna 9 Buenos Aires,Gerona,CR 36 A  43   68,Informal,Compra y Venta de material,12,No los manipula.,Organizacional,Interactuar Famiempresas,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,Si,Si,Si,Si,No,0,12/19/2012 9:44,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+303,"(4715859.314700001, 2248483.251500001)",4547,2012,4715859.315,2248483.252,Prosuplas,Comuna 10 La Candelaria,Barrio Colon,CR 46   42   74,Informal,Compra y Venta de material,132,No los manipula.,Ambiental,Sanidad.,No,NR.,Buenos,Si,Si,Si,Si,Si,No,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/19/2012 10:05,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+304,"(4716174.1753, 2249770.357500002)",4792,2012,4716174.175,2249770.358,Wilson,Comuna 10 La Candelaria,Villa Nueva,CL 55 A  50   48,Informal,Compra y Venta de material,15,No los compra.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,12/19/2012 10:29,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+305,"(4716177.5325, 2249778.001)",4793,2012,4716177.533,2249778.001,Chatarrer�a La Mona,Comuna 10 La Candelaria,Villa Nueva,CL 55 A  50   44,Formal,Compra y Venta de material,10,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,Si,1,12/19/2012 10:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+306,"(4716183.8426, 2249767.8104000017)",4795,2012,4716183.843,2249767.81,Chatarrer�a El Gordo,Comuna 10 La Candelaria,Villa Nueva,CL 55 A  50   38,Informal,Compra y Venta de material,4,Nolos compra.,Ambiental,Municipio de Medell�n y �rea Metropolitana del Valle de Aburr�.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,12/14/2012 21:58,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+307,"(4717807.9979, 2252309.915599998)",4796,2012,4717807.998,2252309.916,Robin Plas,Comuna 3 Manrique,Las Granjas,CR 43 A  85   50,Informal,Compra y Venta de material,30,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,1,12/14/2012 21:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+308,"(4716158.394200001, 2249782.334200004)",4798,2012,4716158.394,2249782.334,Chatarrer�a Mem�n,Comuna 10 La Candelaria,Villa Nueva,CL 55 A  50   54,Informal,Compra y Venta de material,1,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,No,0,12/14/2012 20:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+309,"(4717953.1581, 2254186.4060000014)",4823,2012,4717953.158,2254186.406,Chatarreria El Buen Gusto,Comuna 2 Santa Cruz,Villa del Socorro,CL 105   43 A  10,Informal,Compra y Venta de material,24,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,Si,No,No,No,No,0,12/14/2012 20:11,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310,"(4718774.9355, 2254970.7809999995)",4824,2012,4718774.936,2254970.781,Chatarrer�a El Sarco ,Comuna 1 Popular,Santo Domingo Savio No.1,CL 121   30   49,Informal,Compra y Venta de material,24,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,12/14/2012 20:21,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+311,"(4717448.3098, 2253680.2184999995)",4825,2012,4717448.31,2253680.219,Chatarrer�a Caliche ,Comuna 2 Santa Cruz,Mosc� No.1,CR 46 B  98 A  7,Formal,Compra y Venta de material,12,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,No,0,12/14/2012 20:34,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+312,"(4717549.7144, 2254292.9189)",4826,2012,4717549.714,2254292.919,Cootramar,Comuna 2 Santa Cruz,Villa del Socorro,CL 104 B  48   60,Informal,Compra y Venta de material,12,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/14/2012 20:54,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+313,"(4718644.7252, 2253764.4635000024)",4827,2012,4718644.725,2253764.464,Chatarrer�a Los Gomelos,Comuna 1 Popular,San Pablo,CL 101 B  33 DD  7,Formal,Compra y Venta de material,12,No los manipula.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,12/14/2012 21:15,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+314,"(4718442.7207, 2254407.2879000027)",4828,2012,4718442.721,2254407.288,Chatarrer�a Rigoberto ,Comuna 1 Popular,Santo Domingo Savio No.1,CR 37   107 E  4,Formal,Compra y Venta de material,48,No llegan a la compraventa.,Organizacional,Positiva.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,6,12/21/2012 11:09,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+315,"(4718430.8318, 2254115.2145000026)",4829,2012,4718430.832,2254115.215,Chatarrer�a Don Alonso,Comuna 1 Popular,Granizal,CR 37   105   24,Informal,Compra y Venta de material,1,No llegan a la compraventa.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/21/2012 11:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+316,"(4718516.324, 2254939.673699999)",4830,2012,4718516.324,2254939.674,Chatarrer�a Don Julio ,Comuna 1 Popular,Santo Domingo Savio No.1,CL 118   38   19,Formal,Compra y Venta de material,180,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,Si,No,No,No,0,12/21/2012 12:20,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+317,"(4718258.6884, 2253826.935600003)",4831,2012,4718258.688,2253826.936,Chatarrer�a Los Monos,Comuna 1 Popular,Mosc� No.2,CL 101 B  38 C  3,Formal,Compra y Venta de material,36,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,12/21/2012 12:46,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+318,"(4717851.9469, 2254830.8758000024)",4832,2012,4717851.947,2254830.876,Chatarrer�a Juvenal,Comuna 2 Santa Cruz,La Francia,CR 48 A  110   7,Formal,Compra y Venta de material,60,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Si,1,21:14.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+319,"(4714437.7778, 2246958.5869999994)",4990,2012,4714437.778,2246958.587,Limar Recuperadora de Metales,Comuna 15 Guayabal,Trinidad,CR 58   28   38,Formal,Compra y Venta de material,12,No llegan a la compraventa.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,No,Si,1,12/21/2012 13:35,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+320,"(4714273.2268, 2246688.3210000005)",4991,2012,4714273.227,2246688.321,Chachaterr�a P�rez Urrego,Comuna 15 Guayabal,Trinidad,CR 60   24   62,Formal,Compra y Venta de material,36,No llegan a la compraventa.,Ambiental,Cooperativa Recuperar e Interactuar.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,Si,Si,Si,No,No,No,Si,2,12/21/2012 13:47,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+321,"(4706218.5579, 2242182.4268999975)",4992,2012,4706218.558,2242182.427,Chatarrer�a Oscar Pineda,Corregimiento 80 Corregimiento de San Antonio de P,San Antonio de Prado,CL 11   8   31,Informal,Compra y Venta de material,120,No llegan a la compraventa.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,No,No,No,0,12/21/2012 14:02,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322,"(4706974.636400002, 2242181.9185000006)",4993,2012,4706974.636,2242181.919,Chatarrer�a Don Fredy,Corregimiento 80 Corregimiento de San Antonio de P,San Antonio de Prado,CL 11   1   64,Formal,Compra y Venta de material,4,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/21/2012 13:22,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+323,"(4706135.453700002, 2242310.7632)",4994,2012,4706135.454,2242310.763,Recicladora La Esperanza,Corregimiento 80 Corregimiento de San Antonio de P,San Antonio de Prado,CL 12   9   50,Formal,Compra y Venta de material,60,NR.,Ninguna,NR.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/21/2012 13:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+324,"(4706100.9013, 2242360.2820000034)",4996,2012,4706100.901,2242360.282,Reciclaje DJ,Corregimiento 80 Corregimiento de San Antonio de P,San Antonio de Prado,CL 13   10   13,Formal,Compra y Venta de material,36,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,No,No,No,No,Si,No,No,No,0,12/21/2012 14:16,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+325,"(4708928.604800001, 2252561.9668000024)",5026,2012,4708928.605,2252561.967,Oscar Rueda,Corregimiento 60 Corregimiento de San Cristobal,Cabecera Urbana Corregimiento San Cristobal,CL 62   127   32,Formal,Compra y Venta de material,48,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,No,No,No,No,No,No,No,0,12/21/2012 14:59,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+326,"(4708247.582400001, 2252605.6151)",5027,2012,4708247.582,2252605.615,Chatarrer�a Barrio Nuevo,Corregimiento 60 Corregimiento de San Cristobal,Cabecera Urbana Corregimiento San Cristobal,CL 63   133   36,Formal,Compra y Venta de material,240,No los manipula.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,36:49.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+327,"(4708724.181100001, 2252361.7929000016)",5028,2012,4708724.181,2252361.793,Chatarrer�a El Mono,Corregimiento 60 Corregimiento de San Cristobal,Cabecera Urbana Corregimiento San Cristobal,CL 61   128   27,Formal,Compra y Venta de material,6,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Regulares,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,No,No,No,No,Si,Si,No,0,12/21/2012 15:45,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+328,"(4707883.311400002, 2252948.4415000007)",5030,2012,4707883.311,2252948.442,Asosac,Corregimiento 60 Corregimiento de San Cristobal,Traves�as,CL 66   140   82,Formal,Compra y Venta de material,96,No llegan a la compraventa.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,No,0,12/21/2012 14:21,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+329,"(4706965.6687, 2242337.827299999)",5031,2012,4706965.669,2242337.827,Chatarrer�a Fabio,Corregimiento 80 Corregimiento de San Antonio de P,San Antonio de Prado,CL 12 A  2 A  8,Informal,Compra y Venta de material,180,No los compra.,Organizacional,"Fibras Nacionales, Aprovechadora Itag��.",No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,5,12/21/2012 14:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+330,"(4710804.948200001, 2250973.6586000025)",5041,2012,4710804.948,2250973.659,Chatarrer�a Jalisco,Comuna 13 San Javier,Juan XXIII La Quiebra,CL 48 DD  99 CC  77,Informal,Compra y Venta de material,8,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,Si,No,No,Si,No,No,No,No,No,No,No,No,0,12/21/2012 14:52,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+331,"(4710909.9994, 2246325.1180000007)",5042,2012,4710909.999,2246325.118,Chatarrer�a J,Corregimiento 70 Corregimiento de Altavista,Area de Expansi�n Altavista,CR 90   18   36,Informal,Compra y Venta de material,48,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,2,12/21/2012 15:47,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+332,"(4710603.760200002, 2246255.9743000027)",5043,2012,4710603.76,2246255.974,Jos� Rico,Corregimiento 70 Corregimiento de Altavista,Area de Expansi�n Altavista,CL 18   92 B  41,Informal,Compra y Venta de material,48,NR.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/21/2012 15:56,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+333,"(4706403.478100002, 2242099.917600002)",5044,2012,4706403.478,2242099.918,Chatarrer�a La Garengue,Corregimiento 80 Corregimiento de San Antonio de P,San Antonio de Prado,CR 76   41  Sur 29,Formal,Compra y Venta de material,84,No los manipula.,Organizacional,UMATA y Universidad de Antioquia.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,Si,No,No,Si,9,12/26/2012 12:31,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+334,"(4707489.2665, 2242101.3826)",5045,2012,4707489.267,2242101.383,Chatarrer�a Batea,Corregimiento 80 Corregimiento de San Antonio de P,San Antonio de Prado,CL 11   5  Este 75,Formal,Compra y Venta de material,84,No los manipula en la compraventa.,Organizacional,"IME,Licor Antioquia,UMATA y Universidad Antioquia",No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,Si,No,No,Si,9,12/26/2012 12:31,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+335,"(4706012.675800001, 2242086.5063999984)",5046,2012,4706012.676,2242086.506,Chatarreria Jorge,Corregimiento 80 Corregimiento de San Antonio de P,San Antonio de Prado,CR 81   42  Sur 32,Formal,Compra y Venta de material,12,No llegan.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,No,0,12/26/2012 13:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+336,"(4708389.0289, 2241119.4071000014)",5048,2012,4708389.029,2241119.407,Chatarrer�a Jos,Corregimiento 80 Corregimiento de San Antonio de P,San Antonio de Prado,CL 4  Este 12   44,Formal,Compra y Venta de material,36,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,7,12/26/2012 13:32,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+337,"(4709839.551500001, 2249008.849800002)",5049,2012,4709839.552,2249008.85,Juan Ossa Santamar�a,Comuna 13 San Javier,El Coraz�n,CR 111 C  34 B  30,Informal,Compra y Venta de material,240,NR.,Ambiental,Sanidad.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,3,12/26/2012 13:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+338,"(4719391.525500001, 2247326.4904000014)",5123,2012,4719391.526,2247326.49,Reciclaje Alfa y Omega,Comuna 8 Villa Hermosa,Las Estancias,CL 52   8   39,Informal,Transformaci�n,2,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,Si,Si,Si,No,No,No,No,No,0,12/26/2012 14:13,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+339,"(4715336.1936, 2252001.929100001)",5124,2012,4715336.194,2252001.929,Inversiones Posada Montoya,Comuna 5 Castilla,Caribe,CL 75 A  64 C  62,Formal,Compra y Venta de material,48,No los compran.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,6,30:12.0,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+340,"(4716508.019500001, 2252103.1389000025)",5125,2012,4716508.02,2252103.139,Excedentes Horacio Vergara,Comuna 4 Aranjuez,Miranda,CL 81   51 B  10,Formal,Compra y Venta de material,36,No los manipula.,Ambiental,Secretar�a de Medio Ambiente de Medell�n.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,No,Si,7,12/26/2012 13:32,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+341,"(4716289.3577, 2253003.5846999995)",5126,2012,4716289.358,2253003.585,Frasquer�a La 55,Comuna 4 Aranjuez,Bermejal-Los Alamos,CR 55   90   70,Informal,Compra y Venta de material,240,NR.,Ambiental,Sanidad.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,Si,Si,Si,3,12/26/2012 13:41,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+342,"(4716447.1525, 2252238.1730000023)",5128,2012,4716447.153,2252238.173,Excedentes Pl�sticos J.C,Comuna 4 Aranjuez,Miranda,CR 51 C  82   21,Formal,Compra y Venta de material,48,"Los hacen llegar a los puntos de recolecci�n de residuos peligosos como pilas, bater�as.",Todos los anteriores,�rea Metropolitana del Valle de Aburr�.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,Si,Si,No,Si,No,Si,No,No,No,No,No,No,0,12/26/2012 13:48,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+343,"(4716266.759800001, 2252990.3943000007)",5130,2012,4716266.76,2252990.394,Pl�sticos Vahos Quintana,Comuna 4 Aranjuez,Bermejal-Los Alamos,CR 55   90   34,Formal,Transformaci�n,12,No llegan.,Ninguna,NR.,No,NR.,Malos,Si,Si,Si,Si,Si,Si,No,No,No,Si,Si,Si,Si,No,Si,No,No,Si,9,12/26/2012 14:01,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+344,"(4716549.1203000005, 2252461.5182000007)",5132,2012,4716549.12,2252461.518,Hern�n Alberto Durango,Comuna 4 Aranjuez,Aranjuez,CL 85   51 B  2,Informal,Transformaci�n,2,Los deposita en la caneca de la basura.,Ninguna,NR.,No,NR.,Buenos,Si,Si,Si,Si,Si,Si,No,Si,Si,Si,Si,Si,Si,No,No,No,No,No,0,12/26/2012 14:13,Colombia
